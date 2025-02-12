@@ -8273,7 +8273,7 @@
 "GunMark/OverlayInfo/Info/ForMajor": "Top 10%"
 "notification/GunMark/FirstLevel": "Your tank has earned a mark of excellence!"
 "notification/GunMark/NewLevel": "Your tank has earned an additional mark of excellence!"
-"#achievementScreen:Brief/GunMarkAverageDamage": "Average Damage per 100 Battles"
+"#achievementScreen:Brief/GunMarkAverageDamage": "Avg. dmg. per 100 battles"
 "#achievementScreen:Brief/GunMarkCurrentAverageDamageDescription": "Margin of error ~5%"
 "#achievementScreen:Brief/GunMarkRequiredDamageMinor": "Average Damage for 1 Mark"
 "#achievementScreen:Brief/GunMarkRequiredDamageMedium": "Average Damage for 2 Marks"

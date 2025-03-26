@@ -2319,3 +2319,5 @@
 "storage/Items/rd_token/Description": "Currency for researching tanks from the new branch during a special event"
 "storage/Items/rd_token/Obtainment": "Can be obtained in the drawing, and from the second week of the event, also from containers for completing personal missions"
 "storage/Items/rd_token/Title": "Blueprint"
+"storage/Items/progetto_m35_25y_chest/Title": "Progetto M35 mod. 46 Container"
+"storage/Items/progetto_m35_25y_chest/Description": "Guaranteed to contain:\n• Free XP Certificates;\n• Credit or XP Boosters;\n• Progetto M35 mod. 46 Container Talisman.<br/><br/>May also contain:\n• XP Bonus Certificates with an 80% chance;\n• Gold Boosters with a 75% chance;\n• Equipment Reload Boosters with a 75% chance;\n• Gold with a 20% chance;\n• Progetto M35 mod. 46 Tier VIII Premium Medium Tank with a 4% chance."

@@ -7753,10 +7753,12 @@
 "storage/Items/profile_skin_blitz_point_3s_1/Title": "Фон профиля «Тренировка на природе»"
 "storage/Items/profile_skin_blitz_point_3s_1/Description": "Классический пейзаж Лиги Блиц Поинт"
 #version 11.10
-"storage/Items/token_progetto_m35_25y_chest/Description": 
-"storage/Items/token_progetto_m35_25y_chest/Features": 
-"storage/Items/token_progetto_m35_25y_chest/Obtainment": 
-"storage/Items/token_progetto_m35_25y_chest/Title": 
+"storage/Items/token_progetto_m35_25y_chest/Description": "Валюта для получения контейнера Progetto M35 mod. 46"
+"storage/Items/token_progetto_m35_25y_chest/Features": "• Выпадает с каждым открытием контейнера\n• Собрав 10 Талисманов, ты получишь контейнер Progetto M35 mod. 46"
+"storage/Items/token_progetto_m35_25y_chest/Obtainment": "Открывай контейнеры Progetto M35 mod. 46"
+"storage/Items/token_progetto_m35_25y_chest/Title": "Талисман контейнера Progetto M35 mod. 46"
+"storage/Items/progetto_m35_25y_chest/Title": "Контейнер Progetto M35 mod. 46"
+"storage/Items/progetto_m35_25y_chest/Description": "Гарантированно содержит:\n• сертификаты на свободный опыт;\n• бустеры кредитов или опыта;\n• Талисман контейнера Progetto M35 mod. 46.<br/><br/>Также может содержать:\n• сертификаты на бонус опыта с вероятностью 80%;\n• бустеры золота с вероятностью 75%;\n• бустеры перезарядки снаряжения с вероятностью 75%;\n• золото с вероятностью 20%;\n• средний премиум танк VIII уровня Progetto M35 mod. 46 с вероятностью 4%."
 "storage/Items/chest_WZ_120_1G_gold_v2/Description": "Гарантированно содержит:\n• сертификаты на свободный опыт;\n• бустеры кредитов или опыта;\n• Талисман контейнера WZ-120-1G FT.<br/><br/>Также может содержать:\n• сертификаты на бонус опыта с вероятностью 80%;\n• бустеры золота с вероятностью 75%;\n• бустеры перезарядки снаряжения с вероятностью 75%;\n• золото с вероятностью 20%;\n• легендарный камуфляж «Гунби» для WZ-120-1G FT с вероятностью 5%;\n• премиум ПТ-САУ VIII уровня WZ-120-1G FT с вероятностью 4%."
 "storage/Items/chest_WZ_120_1G_gold_v2/Title": "Контейнер WZ-120-1G FT"
 "storage/Items/profile_skin_blitz_point_3s_2/Description": 

@@ -2090,3 +2090,232 @@
 "2025_TOP_UP_MARCH/ProgressStage/Hint": "Deal damage on tanks IV–X levels and get <proxy2/> Pendants.\nAnd look for <proxy1/> Keychains in sets in the store!"
 "2025_TOP_UP_MARCH/currency/win/terms": "Play on tanks IV–X levels and get 1 Pendant for every 100 damage points dealt"
 "2025_TOP_UP_MARCH/currency/shop/terms": "Look for Keychains in sets with gold in the store"
+"storage/Items/stuffQuest_j_r_1/Title": "Quest: Give 'Em Sparks"
+"storage/Items/stuffQuest_j_r_1/Description": "Play 10 battles in the 'Resurrection' mode"
+"storage/Items/stuffQuest_j_r_1_1/Title": "Quest: More Fire"
+"storage/Items/stuffQuest_j_r_1_1/Description": "Deal 100,000 damage playing heavy tanks in 'Resurrection' mode"
+"storage/Items/stuffQuest_j_r_1_2/Title": "Quest: Even More Fire"
+"storage/Items/stuffQuest_j_r_1_2/Description": "Deal 100,000 damage playing tank destroyers in 'Resurrection' mode"
+"storage/Items/stuffQuest_j_r_2/Title": "Quest: Crank Up the Heat"
+"storage/Items/stuffQuest_j_r_2/Description": "Play 20 battles in 'Resurrection' mode"
+"storage/Items/stuffQuest_j_r_2_1/Title": "Quest: From the Ashes"
+"storage/Items/stuffQuest_j_r_2_1/Description": "Destroy 90 enemy tanks playing medium tanks in 'Resurrection' mode"
+"storage/Items/stuffQuest_j_r_2_2/Title": "Quest: While You're Burning"
+"storage/Items/stuffQuest_j_r_2_2/Description": "Destroy 90 enemy tanks playing light tanks in 'Resurrection' mode"
+"storage/Items/stuffQuest_j_r_3/Title": "Quest: Phoenix"
+"storage/Items/stuffQuest_j_r_3/Description": "Achieve 15 victories in 'Resurrection' mode"
+"storage/Items/stuffQuest_j_b_1/Title": "Quest: Easy Task"
+"storage/Items/stuffQuest_j_b_1/Description": "Play 10 battles in Big Boss mode"
+"storage/Items/stuffQuest_j_b_1_1/Title": "Quest: Full Power"
+"storage/Items/stuffQuest_j_b_1_1/Description": "Deal 170,000 damage playing heavy tanks in Big Boss mode"
+"storage/Items/stuffQuest_j_b_1_2/Title": "Quest: Non-Stop"
+"storage/Items/stuffQuest_j_b_1_2/Description": "Deal 170,000 damage playing tank destroyers in Big Boss mode"
+"storage/Items/stuffQuest_j_b_2/Title": "Quest: Easy Sprint"
+"storage/Items/stuffQuest_j_b_2/Description": "Play 20 battles in Big Boss mode"
+"storage/Items/stuffQuest_j_b_2_1/Title": "Quest: MT: Level Up"
+"storage/Items/stuffQuest_j_b_2_1/Description": "Destroy 105 enemy tanks playing medium tanks in Big Boss mode"
+"storage/Items/stuffQuest_j_b_2_2/Title": "Quest: LT: Level Up"
+"storage/Items/stuffQuest_j_b_2_2/Description": "Destroy 105 enemy tanks playing light tanks in Big Boss mode"
+"storage/Items/stuffQuest_j_b_3/Title": "Quest: Who's the Boss?"
+"storage/Items/stuffQuest_j_b_3/Description": "Achieve 15 victories in Big Boss mode"
+"storage/Items/profile_skin_ext/Title": "Profile Background 'Diamond Eye'"
+"storage/Items/profile_skin_ext/Description": "Given to External Test participants"
+"avatars/Items/avatar_exteye_legendary/Title": "Avatar 'Attentive'"
+"avatars/Items/avatar_exteye_legendary/Description": "Given to External Test participants"
+"avatars/Items/avatar_extcube_legendary/Title": "Avatar 'Collected'"
+"avatars/Items/avatar_extcube_legendary/Description": "Given to External Test participants"
+"avatars/Items/avatar_extcube_legendary_anim/Title": "Animated Avatar 'Collected'"
+"avatars/Items/avatar_extcube_legendary_anim/Description": "Given to External Test participants"
+"storage/Items/profile_skin_blitz_point_3s_1/Title": "Profile Background 'Nature Training'"
+"storage/Items/profile_skin_blitz_point_3s_1/Description": "Classic landscape from Blitz Point League"
+"storage/Items/token_progetto_m35_25y_chest/Description": 
+"storage/Items/token_progetto_m35_25y_chest/Features": 
+"storage/Items/token_progetto_m35_25y_chest/Obtainment": 
+"storage/Items/token_progetto_m35_25y_chest/Title": 
+"storage/Items/chest_WZ_120_1G_gold_v2/Description": "Guaranteed to contain:\n• Free XP Certificates;\n• Credit or XP Boosters;\n• WZ-120-1G FT Container Talisman.<br/><br/>May also contain:\n• XP Bonus Certificates with an 80% chance;\n• Gold Boosters with a 75% chance;\n• Equipment Reload Boosters with a 75% chance;\n• Gold with a 20% chance;\n• 'Gunbi' legendary camouflage for the WZ-120-1G FT with a 5% chance;\n• WZ-120-1G FT Tier VIII Premium Tank Destroyer with a 4% chance."
+"storage/Items/chest_WZ_120_1G_gold_v2/Title": "WZ-120-1G FT Container"
+"storage/Items/profile_skin_blitz_point_3s_2/Description":
+"storage/Items/profile_skin_blitz_point_3s_2/Title":
+"storage/Items/token_chest_WZ_120_1G_gold_v2/Description": "Currency for obtaining the WZ-120-1G FT container"
+"storage/Items/token_chest_WZ_120_1G_gold_v2/Features": "• Drops with every container opening\n• Collect 10 Talismans to get the WZ-120-1G FT container"
+"storage/Items/token_chest_WZ_120_1G_gold_v2/Obtainment": "Open WZ-120-1G FT containers"
+"storage/Items/token_chest_WZ_120_1G_gold_v2/Title": "WZ-120-1G FT Container Talisman"
+"storage/Items/destr_chest/Description": "Guaranteed to contain:\n• Free XP Certificates;\n• Credit or XP Boosters.<br/><br/>May also contain:\n• XP Bonus Certificates with an 80% chance;\n• Gold Boosters with a 75% chance;\n• Equipment Reload Boosters with a 75% chance;\n• Gold with a 20% chance;\n• Crusher Tier VII Collector Heavy Tank with a 3% chance;\n• Gravedigger Tier VII Collector Heavy Tank with a 3% chance."
+"storage/Items/destr_chest/Title": "Sinister Container"
+"storage/Items/vamp_chest/Description": "Guaranteed to contain:\n• Free XP Certificates;\n• Credit or XP Boosters.<br/><br/>May also contain:\n• XP Bonus Certificates with an 80% chance;\n• Gold Boosters with a 75% chance;\n• Equipment Reload Boosters with a 75% chance;\n• Gold with a 20% chance;\n• Helsing Tier VII Premium Tank Destroyer with a 3% chance;\n• Dracula Tier VII Premium Medium Tank with a 3% chance."
+"storage/Items/vamp_chest/Title": "Vampiric Container"
+"storage/Items/stuffQuest_2025_LMD/Description": "Deal 65,000 damage"
+"storage/Items/stuffQuest_2025_LMD/Title": "Quest: Out of the Shell"
+"storage/Items/chest_destr_token/Description":
+"storage/Items/chest_destr_token/Features":
+"storage/Items/chest_destr_token/Obtainment":
+"storage/Items/chest_destr_token/Title":
+"storage/Items/token_GSOR_1008_chest_v3/Description": "Currency for obtaining the GSOR 1008 container"
+"storage/Items/token_GSOR_1008_chest_v3/Features": "• Drops with every container opening\n• Collect 10 Talismans to get the GSOR 1008 container"
+"storage/Items/token_GSOR_1008_chest_v3/Obtainment": "Open GSOR 1008 containers"
+"storage/Items/token_GSOR_1008_chest_v3/Title": "GSOR 1008 Container Talisman"
+"storage/Items/GSOR_1008_chest_v3/Title": "GSOR 1008 Container"
+"storage/Items/GSOR_1008_chest_v3/Description": "Guaranteed to contain:\n• Free XP Certificates;\n• Credit or XP Boosters;\n• GSOR 1008 Container Talisman.<br/><br/>May also contain:\n• XP Bonus Certificates with an 80% chance;\n• Gold Boosters with a 75% chance;\n• Equipment Reload Boosters with a 75% chance;\n• Gold with a 20% chance;\n• 'Excalibur' legendary camouflage for the GSOR 1008 with a 5% chance;\n• GSOR 1008 Tier VIII Premium Tank Destroyer with a 4% chance."
+"storage/Items/chest_vamp_chest_token/Description":
+"storage/Items/chest_vamp_chest_token/Features":
+"storage/Items/chest_vamp_chest_token/Obtainment":
+"storage/Items/chest_vamp_chest_token/Title":
+"storage/Items/token_s25_emil_51_chest/Description": "Currency for obtaining the EMIL 1951 container"
+"storage/Items/token_s25_emil_51_chest/Features": "• Drops with every container opening\n• Collect 10 Talismans to get the EMIL 1951 container"
+"storage/Items/token_s25_emil_51_chest/Obtainment": "Open EMIL 1951 containers"
+"storage/Items/token_s25_emil_51_chest/Title": "EMIL 1951 Container Talisman"
+"storage/Items/s25_emil_51_chest/Title": "EMIL 1951 Container"
+"storage/Items/s25_emil_51_chest/Description": "Guaranteed to contain:\n• Free XP Certificates;\n• Credit or XP Boosters;\n• EMIL 1951 Container Talisman.<br/><br/>May also contain:\n• XP Bonus Certificates with an 80% chance;\n• Gold Boosters with a 75% chance;\n• Equipment Reload Boosters with a 75% chance;\n• Gold with a 20% chance;\n• 'Viking' legendary camouflage for the EMIL 1951 with a 5% chance;\n• EMIL 1951 Tier VIII Premium Heavy Tank with a 4% chance."
+"storage/Items/t54e2_25y_chest/Title": "T54E2 Container"
+"storage/Items/t54e2_25y_chest/Description": "Guaranteed to contain:\n• Free XP Certificates;\n• Credit or XP Boosters;\n• T54E2 Container Talisman.<br/><br/>May also contain:\n• XP Bonus Certificates with an 80% chance;\n• Gold Boosters with a 75% chance;\n• Equipment Reload Boosters with a 75% chance;\n• Gold with a 20% chance;\n• 'Shark' legendary camouflage for the T54E2 with a 5% chance;\n• T54E2 Tier VIII Premium Heavy Tank with a 4% chance."
+"storage/Items/token_t54e2_25y_chest/Features": "• Drops with every container opening\n• Collect 10 Talismans to get the T54E2 container"
+"storage/Items/token_t54e2_25y_chest/Title": "T54E2 Container Talisman"
+"storage/Items/token_t54e2_25y_chest/Description": "Currency for obtaining the T54E2 container"
+"storage/Items/token_t54e2_25y_chest/Obtainment": "Open T54E2 containers"
+"storage/Items/su_130_chest/Description": "Guaranteed to contain:\n• Free XP Certificates;\n• Credit or XP Boosters;\n• SU-130PM Container Talisman.<br/><br/>May also contain:\n• XP Bonus Certificates with an 80% chance;\n• Gold Boosters with a 75% chance;\n• Equipment Reload Boosters with a 75% chance;\n• Gold with a 20% chance;\n• 'Scar' legendary camouflage for the SU-130PM with a 5% chance;\n• SU-130PM Tier VIII Premium Tank Destroyer with a 4% chance."
+"storage/Items/su_130_chest/Title": "SU-130PM Container"
+"storage/Items/chest_su_130_chest_token/Description": "Currency for obtaining the SU-130PM container"
+"storage/Items/chest_su_130_chest_token/Features": "• Drops with every container opening\n• Collect 10 Talismans to get the SU-130PM container"
+"storage/Items/chest_su_130_chest_token/Obtainment": "Open SU-130PM containers"
+"storage/Items/chest_su_130_chest_token/Title": "SU-130PM Container Talisman"
+"storage/Items/SubscriptionG85AP/Tank/Title": "Subscription for Aufklärungspanzer Panther"
+"storage/Items/stoken_v1/Description":
+"storage/Items/stoken_v1/Features":
+"storage/Items/stoken_v1/Obtainment":
+"storage/Items/stoken_v1/Title":
+"storage/Items/anim_avatar_2025_LMD/Description": "Underwater beauty"
+"storage/Items/anim_avatar_2025_LMD/Title": "Animated Avatar 'Lesta'"
+"storage/Items/profile_skin_2025_LMD/Description": "From Lesta with love. Glug!"
+"storage/Items/profile_skin_2025_LMD/Title": "Profile Background 'Out of the Shell'"
+"storage/Items/reactions_2025_LMD/Description": "From the Deepest Depths"
+"storage/Items/reactions_2025_LMD/Obtainment": "Reward in the 'Out of the Shell' quest"
+"storage/Items/reactions_2025_LMD/Title": "Reaction Pack 'Mermaid'"
+"storage/Items/Stuff_mystery_box/Description": "Some mystique is expected..."
+"storage/Items/Stuff_mystery_box/Features": "Keep it as a souvenir in Storage or exchange it for a Mystical Container I"
+"storage/Items/Stuff_mystery_box/Obtainment": "Available for purchase in the Store"
+"storage/Items/Stuff_mystery_box/Title": "Mysterious Collectible Item"
+"storage/Items/chest_snova/Features":
+"storage/Items/chest_snova_cd1/Features":
+"storage/Items/chest_snova_cd2/Features":
+"storage/Items/chest_snova_cd3/Features":
+"storage/Items/chest_snova_cd4/Features":
+"storage/Items/chest_snova_cd5/Features":
+"storage/Items/chest_snova_n1/Features":
+"storage/Items/chest_snova_n2/Features":
+"storage/Items/stuffQuest_2025_RES_1/Description": "Achieve 5 victories"
+"storage/Items/stuffQuest_2025_RES_1/Title": "Quest: Think Up a Tactic"
+"storage/Items/stuffQuest_2025_RES_2/Description": "Destroy 7 enemy tanks"
+"storage/Items/stuffQuest_2025_RES_2/Title": "Quest: Choose a Target"
+"storage/Items/stuffQuest_2025_RES_3/Description": "Get 3 Class Badges of 3rd Class or higher"
+"storage/Items/stuffQuest_2025_RES_3/Title": "Quest: Grab It"
+"storage/Items/stuffQuest_2025_RES_4/Description": "Be in the top 3 for damage among allies in 5 battles"
+"storage/Items/stuffQuest_2025_RES_4/Title": "Quest: Carry"
+"storage/Items/all_stuff_gold_chest/Description": "Guaranteed to contain from 1,000 to 100,000 gold"
+"storage/Items/all_stuff_gold_chest/Title": "Gold Container"
+"storage/Items/chest_snova/Description":
+"storage/Items/chest_snova/Title":
+"storage/Items/chest_snova_n1/Description":
+"storage/Items/chest_snova_n1/Title":
+"storage/Items/chest_snova_n2/Description":
+"storage/Items/chest_snova_n2/Title":
+"storage/Items/chest_snova_cd1/Description":
+"storage/Items/chest_snova_cd1/Title":
+"storage/Items/chest_snova_cd2/Description":
+"storage/Items/chest_snova_cd2/Title":
+"storage/Items/chest_snova_cd3/Description":
+"storage/Items/chest_snova_cd3/Title":
+"storage/Items/chest_snova_cd4/Description":
+"storage/Items/chest_snova_cd4/Title":
+"storage/Items/chest_snova_cd5/Description":
+"storage/Items/chest_snova_cd5/Title":
+"storage/Items/proxy_chest_snova_n/Currency/Description":
+"storage/Items/proxy_chest_snova_n/Currency/Features":
+"storage/Items/proxy_chest_snova_n/Currency/Obtainment":
+"storage/Items/proxy_chest_snova_n/Currency/Title":
+"storage/Items/proxy_chest_snova_cd/Currency/Description":
+"storage/Items/proxy_chest_snova_cd/Currency/Features":
+"storage/Items/proxy_chest_snova_cd/Currency/Obtainment":
+"storage/Items/proxy_chest_snova_cd/Currency/Title":
+"storage/Items/hdecor_2025_PBeB/Description":
+"storage/Items/hdecor_2025_PBeB/Title":
+"storage/Items/profile_skin_snova_cd/Description":
+"storage/Items/profile_skin_snova_cd/Title":
+"storage/Items/profile_skin_snova_n/Description":
+"storage/Items/profile_skin_snova_n/Title":
+"avatars/Items/avatar_snova_anim/Description":
+"avatars/Items/avatar_snova_anim/Title":
+"avatars/Items/avatar_snova_legendary/Description":
+"avatars/Items/avatar_snova_legendary/Title":
+"avatars/Items/avatar_snova_unique/Description":
+"avatars/Items/avatar_snova_unique/Title":
+"storage/Items/bp_25_04_avatar_bundle/Obtainment": "Available to buyers of the special bundle during the 'P.E.P.T. Presents...' Episode in April 2025"
+"storage/Items/bp_25_04_avatar_bundle/Title": "Avatar 'Don't Block the Way!'"
+"storage/Items/bp_25_04_avatar_progressive_free/Title": "Avatar 'Desert Rose'"
+"avatars/Items/bp25_04/FreeBattlePass/ObtainmentShort": "Reach Level %(progress)"
+"avatars/Items/bp25_04/FreeBattlePass/ObtainmentDetailed": "Available with the basic pass during the 'P.E.P.T. Presents...' Episode in April 2025"
+"storage/Items/bp_25_04_avatar_progressive_paid/Title": "Avatar 'P.E.P.T. Research Intern'"
+"avatars/Items/bp25_04/PaidBattlePass/ObtainmentShort": "Reach Level %(progress)"
+"avatars/Items/bp25_04/PaidBattlePass/ObtainmentDetailed": "Available with the Premium Pass during the 'P.E.P.T. Presents...' Episode in April 2025"
+"storage/Items/bp_25_04_couponForUnlockCamo/Obtainment": "Available with the basic or Premium Pass during the 'P.E.P.T. Presents...' Episode in April 2025"
+"storage/Items/bp_25_04_couponForUnlockCamo_3/Obtainment": "Available with the Premium Pass during the 'P.E.P.T. Presents...' Episode in April 2025"
+"storage/Items/bp_25_04_profile_skin/Title": "Profile Background 'P.E.P.T. Presents...'"
+"storage/Items/chest_2025_VD_chests/Description":
+"storage/Items/chest_2025_VD_chests/Title":
+"storage/Items/chest_2025_VD_customization/Description":
+"storage/Items/chest_2025_VD_customization/Title":
+"storage/Items/chest_2025_VD_orders/Description":
+"storage/Items/chest_2025_VD_orders/Title":
+"storage/Items/avatar_2025_VD/Description":
+"storage/Items/avatar_2025_VD/Title":
+"storage/Items/hdecor_2025_VD/Description":
+"storage/Items/hdecor_2025_VD/Title":
+"storage/Items/profile_skin_2025_VD/Description":
+"storage/Items/profile_skin_2025_VD/Title":
+"storage/Items/prx_2025_VD/Description":
+"storage/Items/prx_2025_VD/Title":
+"storage/Items/reactions_2025_VD/Description":
+"storage/Items/reactions_2025_VD/Obtainment":
+"storage/Items/reactions_2025_VD/Title":
+"storage/Items/stuffQuest_2025_VD_1/Description":
+"storage/Items/stuffQuest_2025_VD_1/Title":
+"storage/Items/stuffQuest_2025_VD_2/Description":
+"storage/Items/stuffQuest_2025_VD_2/Title":
+"storage/Items/stuffQuest_2025_VD_3/Description":
+"storage/Items/stuffQuest_2025_VD_3/Title":
+"storage/Items/stuffQuest_2025_VD_4/Description":
+"storage/Items/stuffQuest_2025_VD_4/Title":
+"storage/Items/stuffQuest_2025_VD_5/Description":
+"storage/Items/stuffQuest_2025_VD_5/Title":
+"storage/Items/stuffQuest_2025_VD_6/Description":
+"storage/Items/stuffQuest_2025_VD_6/Title":
+"storage/Items/stuffQuest_2025_VD_7/Description":
+"storage/Items/stuffQuest_2025_VD_7/Title":
+"storage/Items/stuffQuest_2025_VD_8/Description":
+"storage/Items/stuffQuest_2025_VD_8/Title":
+"storage/Items/avatar_anim_2025_RS/Description": "Reward in the 'Ranked Sprint' event"
+"storage/Items/avatar_anim_2025_RS/Title": "Animated Avatar 'Blitz Generator'"
+"storage/Items/prx_2025_RS/Description": "Currency of the 'Ranked Sprint' event"
+"storage/Items/prx_2025_RS/Title": "Shield"
+"storage/Items/draw_2025_RD1/Description": "• Press 'Play' and you will receive one of the drawing awards\n• You always get a new reward, as fallen rewards are eliminated from the list"
+"storage/Items/draw_2025_RD1/Title": "Drawing \n'Expedition to Mars'"
+"storage/Items/chest_2025_RD1_1/Description": "Guaranteed to contain 200 Blueprints"
+"storage/Items/chest_2025_RD1_1/Obtainment": "Reward in the 'Expedition to Mars' drawing"
+"storage/Items/chest_2025_RD1_1/Title": "Research Case I"
+"storage/Items/chest_2025_RD1_2/Description": "Guaranteed to contain 100 Blueprints"
+"storage/Items/chest_2025_RD1_2/Obtainment": "Reward in the 'Expedition to Mars' drawing"
+"storage/Items/chest_2025_RD1_2/Title": "Research Case II"
+"storage/Items/chest_2025_RD1_3/Description": "Guaranteed to contain 50 Blueprints"
+"storage/Items/chest_2025_RD1_3/Obtainment": "Reward in the 'Expedition to Mars' drawing"
+"storage/Items/chest_2025_RD1_3/Title": "Research Case III"
+"storage/Items/chest_2025_RD1_4/Description": "• Guaranteed to contain 5 rewards, including 15 Blueprints\n• May also contain a tank from the list with a 5% chance"
+"storage/Items/chest_2025_RD1_4/Obtainment": "Reward in the 'Expedition to Mars' drawing"
+"storage/Items/chest_2025_RD1_4/Title": "Research Case IV"
+"storage/Items/chest_2025_RD1_5/Description": "• Guaranteed to contain 5 rewards, including 15 Blueprints\n• May also contain a tank from the list with a 3% chance"
+"storage/Items/chest_2025_RD1_5/Obtainment": "Reward in the 'Expedition to Mars' drawing"
+"storage/Items/chest_2025_RD1_5/Title": "Research Case V"
+"storage/Items/chest_2025_RD1_6/Description": "• Guaranteed to contain 4 rewards, including 15 Blueprints\n• May also contain a tank from the list with a 1% chance"
+"storage/Items/chest_2025_RD1_6/Obtainment": "Reward in the 'Expedition to Mars' drawing"
+"storage/Items/chest_2025_RD1_6/Title": "Research Case VI"
+"storage/Items/rd_token/Description": "Currency for researching tanks from the new branch during a special event"
+"storage/Items/rd_token/Obtainment": "Can be obtained in the drawing, and from the second week of the event, also from containers for completing personal missions"
+"storage/Items/rd_token/Title": "Blueprint"

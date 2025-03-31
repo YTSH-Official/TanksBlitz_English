@@ -7806,10 +7806,10 @@
 "storage/Items/chest_su_130_chest_token/Obtainment": "Открывай контейнеры «СУ-130ПМ»"
 "storage/Items/chest_su_130_chest_token/Title": "Талисман контейнера «СУ-130ПМ»"
 "storage/Items/SubscriptionG85AP/Tank/Title": "Подписка на Aufklärungspanzer Panther"
-"storage/Items/stoken_v1/Description": 
-"storage/Items/stoken_v1/Features": 
-"storage/Items/stoken_v1/Obtainment": 
-"storage/Items/stoken_v1/Title": 
+"storage/Items/stoken_v1/Description": "Добавляет в Ангар премиум или коллекционный танк VIII–X уровней из списка"
+"storage/Items/stoken_v1/Features": "Если танк уже есть в Ангаре, в качестве компенсации ты получишь один из трёх контейнеров: «Случайная восьмёрка», «Случайная девятка» или «Случайная десятка». При этом тип контейнера будет соответствовать уровню выпавшего танка. Например, контейнер «Случайная девятка» — за танк IX уровня"
+"storage/Items/stoken_v1/Obtainment": "Ищи в контейнерах «Тёмная материя V»"
+"storage/Items/stoken_v1/Title": "Суперновый сертификат"
 "storage/Items/anim_avatar_2025_LMD/Description": "Подводная красавица"
 "storage/Items/anim_avatar_2025_LMD/Title": "Анимированный аватар «Леста»"
 "storage/Items/profile_skin_2025_LMD/Description": "От Лесты с любовью. Бульк!"
@@ -7821,14 +7821,14 @@
 "storage/Items/Stuff_mystery_box/Features": "Оставь его на память в Хранилище или обменяй на Мистический контейнер I"
 "storage/Items/Stuff_mystery_box/Obtainment": "Доступен для покупки в магазине"
 "storage/Items/Stuff_mystery_box/Title": "Загадочный коллекционный предмет"
-"storage/Items/chest_snova/Features": 
-"storage/Items/chest_snova_cd1/Features": 
-"storage/Items/chest_snova_cd2/Features": 
-"storage/Items/chest_snova_cd3/Features": 
-"storage/Items/chest_snova_cd4/Features": 
-"storage/Items/chest_snova_cd5/Features": 
-"storage/Items/chest_snova_n1/Features": 
-"storage/Items/chest_snova_n2/Features": 
+"storage/Items/chest_snova/Features": "Наблюдай сияние Сверхновой звезды!"
+"storage/Items/chest_snova_cd1/Features": "Чем выше уровень контейнера, тем круче награды!"
+"storage/Items/chest_snova_cd2/Features": "Чем выше уровень контейнера, тем круче награды!"
+"storage/Items/chest_snova_cd3/Features": "Чем выше уровень контейнера, тем круче награды!"
+"storage/Items/chest_snova_cd4/Features": "Чем выше уровень контейнера, тем круче награды!"
+"storage/Items/chest_snova_cd5/Features": "Чем выше уровень контейнера, тем круче награды!"
+"storage/Items/chest_snova_n1/Features": "Чем выше уровень контейнера, тем круче награды!"
+"storage/Items/chest_snova_n2/Features": "Чем выше уровень контейнера, тем круче награды!"
 "storage/Items/stuffQuest_2025_RES_1/Description": "Одержи 5 побед"
 "storage/Items/stuffQuest_2025_RES_1/Title": "Квест «Придумай тактику»"
 "storage/Items/stuffQuest_2025_RES_2/Description": "Уничтожь 7 танков противника"
@@ -7839,42 +7839,42 @@
 "storage/Items/stuffQuest_2025_RES_4/Title": "Квест «Тащи»"
 "storage/Items/all_stuff_gold_chest/Description": "Гарантированно содержит от 1000 до 100 000 золота"
 "storage/Items/all_stuff_gold_chest/Title": "Контейнер с золотом"
-"storage/Items/chest_snova/Description": 
-"storage/Items/chest_snova/Title": 
-"storage/Items/chest_snova_n1/Description": 
-"storage/Items/chest_snova_n1/Title": 
-"storage/Items/chest_snova_n2/Description": 
-"storage/Items/chest_snova_n2/Title": 
-"storage/Items/chest_snova_cd1/Description": 
-"storage/Items/chest_snova_cd1/Title": 
-"storage/Items/chest_snova_cd2/Description": 
-"storage/Items/chest_snova_cd2/Title": 
-"storage/Items/chest_snova_cd3/Description": 
-"storage/Items/chest_snova_cd3/Title": 
-"storage/Items/chest_snova_cd4/Description": 
-"storage/Items/chest_snova_cd4/Title": 
-"storage/Items/chest_snova_cd5/Description": 
-"storage/Items/chest_snova_cd5/Title": 
-"storage/Items/proxy_chest_snova_n/Currency/Description": 
-"storage/Items/proxy_chest_snova_n/Currency/Features": 
-"storage/Items/proxy_chest_snova_n/Currency/Obtainment": 
-"storage/Items/proxy_chest_snova_n/Currency/Title": 
-"storage/Items/proxy_chest_snova_cd/Currency/Description": 
-"storage/Items/proxy_chest_snova_cd/Currency/Features": 
-"storage/Items/proxy_chest_snova_cd/Currency/Obtainment": 
-"storage/Items/proxy_chest_snova_cd/Currency/Title": 
+"storage/Items/chest_snova/Description": "Гарантированно содержит:\n• контейнер «Чистая энергия I» или «Тёмная материя I»;\n• от 1000 до 100 000 золота;\n• Ключ от Запертого контейнера либо один из контейнеров (Чёрный ящик I, «Собери их все!», «Просто космос» или Мистический контейнер I).<br/><br/>Также может содержать:\n• аватар «Россыпь звёзд» с вероятностью 5%;\n• Танкоин с вероятностью 0,01%."
+"storage/Items/chest_snova/Title": "Контейнер «Супернова»"
+"storage/Items/chest_snova_n1/Description": "С вероятностью 40% содержит Талисман контейнера «Чистая энергия I» и Контейнер с золотом.<br/><br/>Если эти награды не выпадают из контейнера, ты гарантированно получишь от 2500 до 250 000 золота и контейнер «Чистая энергия II».\nДополнительно можно получить:\n• с вероятностью 30% — контейнеры «Просто космос»;\n• с вероятностью 10% — контейнер «Случайная девятка»;\n• с вероятностью 5% — аватар «Жемчужная туманность».<br/><br/>Контейнер также может содержать Танкоин с вероятностью 0,01%."
+"storage/Items/chest_snova_n1/Title": "Контейнер «Чистая энергия I»"
+"storage/Items/chest_snova_n2/Description": "С вероятностью 20% содержит Талисман контейнера «Чистая энергия I» и Контейнер с золотом.<br/><br/>Если эти награды не выпадают из контейнера, ты гарантированно получишь от 2500 до 500 000 золота и Талисман контейнера «Чистая энергия I».\nДополнительно можно получить:\n• с вероятностью 50% — контейнеры «Просто космос»;\n• с вероятностью 10% — контейнер «Случайная десятка» и обвес «Антиматерия»;\n• с вероятностью 5% — анимированный аватар «Жемчужная туманность» и фон профиля «Звёздная пыль».<br/><br/>Контейнер также может содержать Танкоин с вероятностью 0,01%."
+"storage/Items/chest_snova_n2/Title": "Контейнер «Чистая энергия II»"
+"storage/Items/chest_snova_cd1/Description": "С вероятностью 10% содержит Талисман контейнера «Тёмная материя I» и Контейнер с золотом.<br/><br/>Если эти награды не выпадают из контейнера, ты гарантированно получишь от 1000 до 150 000 золота, контейнеры «Тёмная материя II», «Просто космос» и «Собери их все!», а также с вероятностью 5% — аватар «Жемчужная туманность».<br/><br/>Контейнер также может содержать Танкоин с вероятностью 0,01%."
+"storage/Items/chest_snova_cd1/Title": "Контейнер «Тёмная материя I»"
+"storage/Items/chest_snova_cd2/Description": "С вероятностью 20% содержит Талисман контейнера «Тёмная материя I» и Контейнер с золотом.<br/><br/>Если эти награды не выпадают из контейнера, ты гарантированно получишь от 1000 до 200 000 золота, контейнеры «Тёмная материя III», «Просто космос» и «Собери их все!», а также с вероятностью 5% — аватар «Жемчужная туманность».<br/><br/>Контейнер также может содержать Танкоин с вероятностью 0,01%."
+"storage/Items/chest_snova_cd2/Title": "Контейнер «Тёмная материя II»"
+"storage/Items/chest_snova_cd3/Description": "С вероятностью 40% содержит Талисман контейнера «Тёмная материя I» и Контейнер с золотом.<br/><br/>Если эти награды не выпадают из контейнера, ты гарантированно получишь от 1000 до 200 000 золота, контейнеры «Тёмная материя IV», «Просто космос» и «Собери их все!».\nДополнительно можно получить:\n• с вероятностью 5% — аватар «Жемчужная туманность»;\n• с вероятностью 3% — Мистический сертификат.<br/><br/>Контейнер также может содержать Танкоин с вероятностью 0,01%."
+"storage/Items/chest_snova_cd3/Title": "Контейнер «Тёмная материя III»"
+"storage/Items/chest_snova_cd4/Description": "С вероятностью 60% содержит Талисман контейнера «Тёмная материя I» и Контейнер с золотом.<br/><br/>Если эти награды не выпадают из контейнера, ты гарантированно получишь от 1000 до 250 000 золота, контейнеры «Тёмная материя V», «Просто космос» и «Собери их все!».\nС вероятностью 5% можно дополнительно получить Мистический сертификат, анимированный аватар «Жемчужная туманность», фон профиля «В сердце Вселенной» и обвес «Антиматерия».<br/><br/>Контейнер также может содержать Танкоин с вероятностью 0,01%."
+"storage/Items/chest_snova_cd4/Title": "Контейнер «Тёмная материя IV»"
+"storage/Items/chest_snova_cd5/Description": "С вероятностью 75% содержит Талисман контейнера «Тёмная материя I» и Контейнер с золотом.<br/><br/>Если эти награды не выпадают из контейнера, ты гарантированно получишь от 1000 до 500 000 золота, контейнеры «Просто космос» и «Собери их все!», а также Талисман контейнера «Тёмная материя I».\nДополнительно можно получить:\n• с вероятностью 8% — обвес «Антиматерия»;\n• с вероятностью 5% — Суперновый сертификат, анимированный аватар «Жемчужная туманность» и фон профиля «В сердце Вселенной».<br/><br/>Контейнер также может содержать Танкоин с вероятностью 0,01%."
+"storage/Items/chest_snova_cd5/Title": "Контейнер «Тёмная материя V»"
+"storage/Items/proxy_chest_snova_n/Currency/Description": "Валюта для получения контейнера «Чистая энергия I»"
+"storage/Items/proxy_chest_snova_n/Currency/Features": "• Собрав 5 Талисманов, ты получишь контейнер «Чистая энергия I»\n• Талисман можно обменять на 500 золота"
+"storage/Items/proxy_chest_snova_n/Currency/Obtainment": "Открывай контейнеры «Чистая энергия I» или «Чистая энергия II»"
+"storage/Items/proxy_chest_snova_n/Currency/Title": "Талисман контейнера «Чистая энергия I»"
+"storage/Items/proxy_chest_snova_cd/Currency/Description": "Валюта для получения контейнера «Тёмная материя I»"
+"storage/Items/proxy_chest_snova_cd/Currency/Features": "• Собрав 5 Талисманов, ты получишь контейнер «Тёмная материя I»\n• Талисман можно обменять на 500 золота"
+"storage/Items/proxy_chest_snova_cd/Currency/Obtainment": "Открывай контейнеры «Тёмная материя I», «Тёмная материя II», «Тёмная материя III», «Тёмная материя IV» или «Тёмная материя V»"
+"storage/Items/proxy_chest_snova_cd/Currency/Title": "Талисман контейнера «Тёмная материя I»"
 "storage/Items/hdecor_2025_PBeB/Description": 
 "storage/Items/hdecor_2025_PBeB/Title": 
-"storage/Items/profile_skin_snova_cd/Description": 
-"storage/Items/profile_skin_snova_cd/Title": 
-"storage/Items/profile_skin_snova_n/Description": 
-"storage/Items/profile_skin_snova_n/Title": 
-"avatars/Items/avatar_snova_anim/Description": 
-"avatars/Items/avatar_snova_anim/Title": 
-"avatars/Items/avatar_snova_legendary/Description": 
-"avatars/Items/avatar_snova_legendary/Title": 
-"avatars/Items/avatar_snova_unique/Description": 
-"avatars/Items/avatar_snova_unique/Title": 
+"storage/Items/profile_skin_snova_cd/Description": "Покоряем бескрайние просторы космоса"
+"storage/Items/profile_skin_snova_cd/Title": "Фон профиля «В сердце Вселенной»"
+"storage/Items/profile_skin_snova_n/Description": "Ну просто космически красиво!"
+"storage/Items/profile_skin_snova_n/Title": "Фон профиля «Звёздная пыль»"
+"avatars/Items/avatar_snova_anim/Description": "Другой такой во всей Вселенной не найти"
+"avatars/Items/avatar_snova_anim/Title": "Анимированный аватар «Жемчужная туманность»"
+"avatars/Items/avatar_snova_legendary/Description": "Другой такой во всей Вселенной не найти"
+"avatars/Items/avatar_snova_legendary/Title": "Аватар «Жемчужная туманность»"
+"avatars/Items/avatar_snova_unique/Description": "Смотри, как сияет! Ярче всех в этой игре…"
+"avatars/Items/avatar_snova_unique/Title": "Аватар «Россыпь звёзд»"
 "storage/Items/bp_25_04_avatar_bundle/Obtainment": "Доступен покупателям особого набора во время Эпизода «ПЭПТ представляет...» в апреле 2025 г."
 "storage/Items/bp_25_04_avatar_bundle/Title": "Аватар «Не уступай дорогу!»"
 "storage/Items/bp_25_04_avatar_progressive_free/Title": "Аватар «Роза пустыни»"
@@ -7946,3 +7946,11 @@
 "storage/Items/rd_token/Description": "Валюта для исследования танков из новой ветки во время специального события"
 "storage/Items/rd_token/Obtainment": "Можно получить в розыгрыше, а со второй недели события — ещё и из контейнеров за выполнение личных задач"
 "storage/Items/rd_token/Title": "Чертёж"
+"storage/Items/random_chest/Features": "Открывается специальным Ключом, который можно купить в магазине"
+"storage/Items/random_chest/Title": "Запертый контейнер «Твист»"
+"storage/Items/random_chest/Description": "Гарантированно содержит:\n• один из контейнеров из списка или Мистический сертификат;\n• сертификаты на свободный опыт и бонус опыта;\n• бустеры кредитов или опыта.<br/><br/>Также может содержать:\n• бустеры золота с вероятностью 75%;\n• золото с вероятностью 20%;\n• Танкоин с вероятностью 0,01%."
+"storage/Items/random_chest/Obtainment": "Доступен для покупки в магазине"
+"storage/Items/random_chest_3d/Features": "Открывается специальным Ключом, который можно купить в магазине"
+"storage/Items/random_chest_3d/Title": "Запертый контейнер «Твист»"
+"storage/Items/random_chest_3d/Description": "Гарантированно содержит:\n• один из контейнеров из списка или Мистический сертификат;\n• сертификаты на свободный опыт и бонус опыта;\n• бустеры кредитов или опыта.<br/><br/>Также может содержать:\n• бустеры золота с вероятностью 75%;\n• золото с вероятностью 20%;\n• Танкоин с вероятностью 0,01%."
+"storage/Items/random_chest_3d/Obtainment": "Может выпасть среди наград за бой"

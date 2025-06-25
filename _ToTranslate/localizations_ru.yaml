@@ -1,4 +1,7 @@
 "#vehicle_customization:camouflage/skin_M41_90_Cruel_Twist/Name": 
+"XChatBannedMsg": "Отправка сообщений заблокирована. Обратись в Центр поддержки."
+"avatars/Items/BlitzStaff/Title": "Аватар «Го Блиц!»"
+"avatars/Items/BlitzStaff/Description": "Я создаю легендарные игры."
 "storage/Items/tkt_lists/Title": 
 "storage/Items/reactions_black2023/Description": 
 "storage/Items/reactions_black2023/Obtainment": 
@@ -105,3 +108,109 @@
 "storage/Items/profile_skin_blitz_point_3s_3_anim/Description": 
 "storage/Items/profile_skin_blitz_point_3s_3_anim/Title": 
 "storage/Items/chest_2025_TANKOPOLY_main/Obtainment": 
+"avatars/Items/avatar_inddr_legendary/Title": "Аватар «Расписной»"
+"avatars/Items/avatar_inddr_legendary/Description": "Поздравляем игроков Tanks Blitz с Днём России!"
+"avatars/Items/avatar_inddb_legendary/Title": "Аватар «Тканый»"
+"avatars/Items/avatar_inddb_legendary/Description": "Поздравляем игроков Tanks Blitz с Днём Независимости Республики Беларусь!"
+"storage/Items/profile_bl_d/Title": "Фон профиля «В стримерской»"
+"storage/Items/profile_bl_d/Description": "Хайпим в эфире!\nИзменяет внешний вид профиля"
+"storage/Items/reactions_bl_d/Title": "Пак реакций «Блогерский»"
+"storage/Items/reactions_bl_d/Description": "Делись эмоциями, жми лайк!"
+"storage/Items/reactions_bl_d/Obtainment": "Ко Дню блогера"
+"avatars/Items/avatar_bl_d_legendary/Title": "Аватар «На связи»"
+"avatars/Items/avatar_bl_d_legendary/Description": "Только качественный контент"
+"avatars/Items/avatar_bl_d_anim/Title": "Анимированный аватар «На связи»"
+"avatars/Items/avatar_bl_d_anim/Description": "Только качественный контент"
+"avatars/Items/avatar_blg_k_legendary/Title": "Аватар «Мастер разБЛОГировки»"
+"avatars/Items/avatar_blg_k_legendary/Description": "Найти и разБЛОГировать"
+"storage/Items/chest_usa_nation_tanks_2025/Title": "Американский контейнер"
+"storage/Items/chest_usa_nation_tanks_2025/Description": "Гарантированно содержит:\n• Талисман американского танка;\n• сертификаты на свободный опыт и бонус опыта;\n• бустеры;\n• аватар из списка.<br/><br/>Также может содержать:\n• американский танк из списка с вероятностью 10%;\n• золото с вероятностью 10%."
+"storage/Items/chest_france_nation_tanks_2025/Title": "Французский контейнер"
+"storage/Items/chest_france_nation_tanks_2025/Description": "Гарантированно содержит:\n• Талисман французского танка;\n• сертификаты на свободный опыт и бонус опыта;\n• бустеры;\n• аватар из списка.<br/><br/>Также может содержать:\n• французский танк из списка с вероятностью 10%;\n• золото с вероятностью 10%."
+"storage/Items/chest_china_nation_tanks_2025/Title": "Китайский контейнер"
+"storage/Items/chest_china_nation_tanks_2025/Description": "Гарантированно содержит:\n• Талисман китайского танка;\n• сертификаты на свободный опыт и бонус опыта;\n• бустеры;\n• аватар из списка.<br/><br/>Также может содержать:\n• китайский танк из списка с вероятностью 10%;\n• золото с вероятностью 10%."
+"storage/Items/chest_china_nation_tanks_2025_token/Currency/Description": "Валюта для получения Сертификата китайского танка"
+"storage/Items/chest_china_nation_tanks_2025_token/Currency/Features": "• Выпадает с каждым открытием контейнера\n• Собрав 20 Талисманов, ты получишь Сертификат китайского танка"
+"storage/Items/chest_china_nation_tanks_2025_token/Currency/Obtainment": "Открывай Китайские контейнеры"
+"storage/Items/chest_china_nation_tanks_2025_token/Currency/Title": "Талисман китайского танка"
+"storage/Items/chest_france_nation_tanks_2025_token/Currency/Description": "Валюта для получения Сертификата французского танка"
+"storage/Items/chest_france_nation_tanks_2025_token/Currency/Features": "• Выпадает с каждым открытием контейнера\n• Собрав 20 Талисманов, ты получишь Сертификат французского танка"
+"storage/Items/chest_france_nation_tanks_2025_token/Currency/Obtainment": "Открывай Французские контейнеры"
+"storage/Items/chest_france_nation_tanks_2025_token/Currency/Title": "Талисман французского танка"
+"storage/Items/chest_usa_nation_tanks_2025_token/Currency/Description": "Валюта для получения Сертификата американского танка"
+"storage/Items/chest_usa_nation_tanks_2025_token/Currency/Features": "• Выпадает с каждым открытием контейнера\n• Собрав 20 Талисманов, ты получишь Сертификат американского танка"
+"storage/Items/chest_usa_nation_tanks_2025_token/Currency/Obtainment": "Открывай Американские контейнеры"
+"storage/Items/chest_usa_nation_tanks_2025_token/Currency/Title": "Талисман американского танка"
+"avatars/Items/avatar_kinpis_legendary/Description": 
+"avatars/Items/avatar_kinpis_legendary/Title": 
+"avatars/Items/avatar_kinpis_legendary_anim/Description": 
+"avatars/Items/avatar_kinpis_legendary_anim/Title": 
+"avatars/Items/avatar_kinpis_unique/Description": 
+"avatars/Items/avatar_kinpis_unique/Title": 
+"storage/Items/hdecor_tp_kinpis/Description": 
+"storage/Items/hdecor_tp_kinpis/Title": 
+"storage/Items/profile_skin_kinpis/Description": 
+"storage/Items/profile_skin_kinpis/Title": 
+"storage/Items/FreeExpCertificate/certificate_1kk_ForFreeXP/Description": 
+"storage/Items/FreeExpCertificate/certificate_1kk_ForFreeXP/Obtainment": 
+"storage/Items/FreeExpCertificate/certificate_1kk_ForFreeXP/Title": 
+"storage/Items/FreeExpCertificate/certificate_2kk_ForFreeXP/Description": 
+"storage/Items/FreeExpCertificate/certificate_2kk_ForFreeXP/Obtainment": 
+"storage/Items/FreeExpCertificate/certificate_2kk_ForFreeXP/Title": 
+"storage/Items/FreeExpCertificate/certificate_5kk_ForFreeXP/Description": 
+"storage/Items/FreeExpCertificate/certificate_5kk_ForFreeXP/Obtainment": 
+"storage/Items/FreeExpCertificate/certificate_5kk_ForFreeXP/Title": 
+"avatars/Items/avatar_quest_07_legendary/Description": "Для жутких историй у костра"
+"avatars/Items/avatar_quest_07_legendary/Title": "Аватар «Минус вайб»"
+"avatars/Items/avatar_quest_07_unique/Description": "Для уютных посиделок у костра"
+"avatars/Items/avatar_quest_07_unique/Title": "Аватар «Плюс вайб»"
+"storage/Items/quest_07_25_profile_skin/Title": "Фон профиля «В летнюю ночь»"
+"storage/Items/quest_07_25_profile_skin/Description": "Походная романтика"
+"storage/Items/stuffQuest_jul_sermar_1/Title": "Квест «В летнюю ночь. История 1»"
+"storage/Items/stuffQuest_jul_sermar_1/Description": "Сыграй 50 боёв"
+"storage/Items/stuffQuest_jul_sermar_2/Title": "Квест «В летнюю ночь. История 2»"
+"storage/Items/stuffQuest_jul_sermar_2/Description": "Получи 30 знаков классности 3 степени или выше"
+"storage/Items/stuffQuest_jul_sermar_3/Title": "Квест «В летнюю ночь. История 3»"
+"storage/Items/stuffQuest_jul_sermar_3/Description": "Нанеси 70 000 ед. урона"
+"storage/Items/stuffQuest_jul_sermar_4/Title": "Квест «В летнюю ночь. История 4»"
+"storage/Items/stuffQuest_jul_sermar_4/Description": "Заработай 55 000 ед. боевого опыта"
+"storage/Items/stuffQuest_jul_sermar_5/Title": "Квест «В летнюю ночь. История 5»"
+"storage/Items/stuffQuest_jul_sermar_5/Description": "Сыграй 75 боёв"
+"storage/Items/bp_25_07_avatar_bundle/Obtainment": "Доступен покупателям особого набора во время Эпизода «Приключения зовут!» в июле 2025 г."
+"storage/Items/bp_25_07_avatar_bundle/Title": "Аватар «Походный»"
+"storage/Items/bp_25_07_avatar_progressive_free/Title": "Аватар «Воздушный змей»"
+"storage/Items/bp_25_07_avatar_progressive_paid/Title": "Аватар «Уютная ночёвка»"
+"storage/Items/bp_25_07_couponForUnlockCamo/Obtainment": "Доступен с базовым или Особым пропуском во время Эпизода «Приключения зовут!» в июле 2025 г."
+"storage/Items/bp_25_07_couponForUnlockCamo_3/Obtainment": "Доступен с Особым пропуском во время Эпизода «Приключения зовут!» в июле 2025 г."
+"storage/Items/bp_25_07_profile_skin/Title": "Фон профиля «Приключения зовут!»"
+"avatars/Items/bp_25_07/FreeBattlePass/ObtainmentShort": "Открой %(progress) уровень"
+"avatars/Items/bp_25_07/FreeBattlePass/ObtainmentDetailed": "Доступен с базовым пропуском во время Эпизода «Приключения зовут!» в июле 2025 г."
+"avatars/Items/bp_25_07/PaidBattlePass/ObtainmentShort": "Открой %(progress) уровень"
+"avatars/Items/bp_25_07/PaidBattlePass/ObtainmentDetailed": "Доступен с Особым пропуском во время Эпизода «Приключения зовут!» в июле 2025 г."
+"avatars/Items/avatar_dev_hunt_legendary_v2/Title": "Попытка не пытка"
+"avatars/Items/avatar_dev_hunt_legendary_v2/Description": "Тайное всегда становится явным. Скоро всё расскажем!"
+"storage/Items/chest_eu_nation_tanks_2025/Title": "Европейский контейнер"
+"storage/Items/chest_eu_nation_tanks_2025/Description": "Гарантированно содержит:\n• бустеры;\n• Талисман европейского танка;\n• сертификаты на свободный опыт и бонус опыта;\n• аватар из списка.<br/><br/>Также может содержать:\n• европейский танк из списка с вероятностью 10%;\n• золото с вероятностью 10%."
+"storage/Items/chest_eu_nation_tanks_2025_token/Currency/Title": "Талисман европейского танка"
+"storage/Items/chest_eu_nation_tanks_2025_token/Currency/Description": "Валюта для получения Сертификата европейского танка"
+"storage/Items/chest_eu_nation_tanks_2025_token/Currency/Obtainment": "Открывай Европейские контейнеры"
+"storage/Items/chest_eu_nation_tanks_2025_token/Currency/Features": "• Выпадает с каждым открытием контейнера\n• Собрав 20 Талисманов, ты получишь Сертификат европейского танка"
+"storage/Items/chest_uk_nation_tanks_2025/Title": "Британский контейнер"
+"storage/Items/chest_uk_nation_tanks_2025/Description": "Гарантированно содержит:\n• бустеры;\n• Талисман британского танка;\n• сертификаты на свободный опыт и бонус опыта;\n• аватар из списка.<br/><br/>Также может содержать:\n• британский танк из списка с вероятностью 10%;\n• золото с вероятностью 10%."
+"storage/Items/chest_uk_nation_tanks_2025_token/Currency/Title": "Талисман британского танка"
+"storage/Items/chest_uk_nation_tanks_2025_token/Currency/Description": "Валюта для получения Сертификата британского танка"
+"storage/Items/chest_uk_nation_tanks_2025_token/Currency/Obtainment": "Открывай Британские контейнеры"
+"storage/Items/chest_uk_nation_tanks_2025_token/Currency/Features": "• Выпадает с каждым открытием контейнера\n• Собрав 20 Талисманов, ты получишь Сертификат британского танка"
+"storage/Items/chest_german_nations_tanks_2025/Title": "Немецкий контейнер"
+"storage/Items/chest_german_nations_tanks_2025/Description": "Гарантированно содержит:\n• бустеры;\n• Талисман немецкого танка;\n• сертификаты на свободный опыт и бонус опыта;\n• аватар из списка.<br/><br/>Также может содержать:\n• немецкий танк из списка с вероятностью 10%;\n• золото с вероятностью 10%."
+"storage/Items/chest_german_nations_tanks_2025_token/Currency/Title": "Талисман немецкого танка"
+"storage/Items/chest_german_nations_tanks_2025_token/Currency/Description": "Валюта для получения Сертификата немецкого танка"
+"storage/Items/chest_german_nations_tanks_2025_token/Currency/Obtainment": "Открывай Немецкие контейнеры"
+"storage/Items/chest_german_nations_tanks_2025_token/Currency/Features": "• Выпадает с каждым открытием контейнера\n• Собрав 20 Талисманов, ты получишь Сертификат немецкого танка"
+"storage/Items/chest_ussr_nation_tanks_2025/Title": "Советский контейнер"
+"storage/Items/chest_ussr_nation_tanks_2025/Description": "Гарантированно содержит:\n• бустеры;\n• Талисман советского танка;\n• сертификаты на свободный опыт и бонус опыта;\n• аватар из списка.<br/><br/>Также может содержать:\n• советский танк из списка с вероятностью 10%;\n• золото с вероятностью 10%."
+"storage/Items/chest_ussr_nation_tanks_2025_token/Currency/Title": "Талисман советского танка"
+"storage/Items/chest_ussr_nation_tanks_2025_token/Currency/Description": "Валюта для получения Сертификата советского танка"
+"storage/Items/chest_ussr_nation_tanks_2025_token/Currency/Obtainment": "Открывай Советские контейнеры"
+"storage/Items/chest_ussr_nation_tanks_2025_token/Currency/Features": "• Выпадает с каждым открытием контейнера\n• Собрав 20 Талисманов, ты получишь Сертификат советского танка"
+"storage/Items/draw_june25_kari/Title": "Розыгрыш \n«Взмах катаны»"

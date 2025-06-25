@@ -7625,6 +7625,64 @@
 
 
 #version 11.0
+"storage/Items/chest_D_2024/Title": "Number Machine"
+"storage/Items/profile_background_brth_2024/Title": "Late Night Show Profile Background"
+"storage/Items/prx1_chest_D_2024/Features": "• Keep Number Balls until the Late Night Show Event starts.\n• Watch the event-relevant stream. In the stream, the rewards will be revealed by spinning the Number Machine!"
+"storage/Items/prx1_chest_D_2024/Obtainment": "Spin the Number Machine in the game."
+"storage/Items/prx1_chest_D_2024_1/Title": "Number Ball 1"
+"storage/Items/prx1_chest_D_2024_10/Title": "Number Ball 10"
+"storage/Items/prx1_chest_D_2024_11/Title": "Number Ball 11"
+"storage/Items/prx1_chest_D_2024_12/Title": "Number Ball 12"
+"storage/Items/prx1_chest_D_2024_13/Title": "Number Ball 13"
+"storage/Items/prx1_chest_D_2024_14/Title": "Number Ball 14"
+"storage/Items/prx1_chest_D_2024_15/Title": "Number Ball 15"
+"storage/Items/prx1_chest_D_2024_16/Title": "Number Ball 16"
+"storage/Items/prx1_chest_D_2024_17/Title": "Number Ball 17"
+"storage/Items/prx1_chest_D_2024_18/Title": "Number Ball 18"
+"storage/Items/prx1_chest_D_2024_19/Title": "Number Ball 19"
+"storage/Items/prx1_chest_D_2024_2/Title": "Number Ball 2"
+"storage/Items/prx1_chest_D_2024_20/Title": "Number Ball 20"
+"storage/Items/prx1_chest_D_2024_21/Title": "Number Ball 21"
+"storage/Items/prx1_chest_D_2024_22/Title": "Number Ball 22"
+"storage/Items/prx1_chest_D_2024_23/Title": "Number Ball 23"
+"storage/Items/prx1_chest_D_2024_24/Title": "Number Ball 24"
+"storage/Items/prx1_chest_D_2024_25/Title": "Number Ball 25"
+"storage/Items/prx1_chest_D_2024_26/Title": "Number Ball 26"
+"storage/Items/prx1_chest_D_2024_27/Title": "Number Ball 27"
+"storage/Items/prx1_chest_D_2024_28/Title": "Number Ball 28"
+"storage/Items/prx1_chest_D_2024_29/Title": "Number Ball 29"
+"storage/Items/prx1_chest_D_2024_3/Title": "Number Ball 3"
+"storage/Items/prx1_chest_D_2024_30/Title": "Number Ball 30"
+"storage/Items/prx1_chest_D_2024_31/Title": "Number Ball 31"
+"storage/Items/prx1_chest_D_2024_32/Title": "Number Ball 32"
+"storage/Items/prx1_chest_D_2024_33/Title": "Number Ball 33"
+"storage/Items/prx1_chest_D_2024_34/Title": "Number Ball 34"
+"storage/Items/prx1_chest_D_2024_35/Title": "Number Ball 35"
+"storage/Items/prx1_chest_D_2024_36/Title": "Number Ball 36"
+"storage/Items/prx1_chest_D_2024_37/Title": "Number Ball 37"
+"storage/Items/prx1_chest_D_2024_38/Title": "Number Ball 38"
+"storage/Items/prx1_chest_D_2024_39/Title": "Number Ball 39"
+"storage/Items/prx1_chest_D_2024_4/Title": "Number Ball 4"
+"storage/Items/prx1_chest_D_2024_40/Title": "Number Ball 40"
+"storage/Items/prx1_chest_D_2024_41/Title": "Number Ball 41"
+"storage/Items/prx1_chest_D_2024_42/Title": "Number Ball 42"
+"storage/Items/prx1_chest_D_2024_43/Title": "Number Ball 43"
+"storage/Items/prx1_chest_D_2024_44/Title": "Number Ball 44"
+"storage/Items/prx1_chest_D_2024_45/Title": "Number Ball 45"
+"storage/Items/prx1_chest_D_2024_46/Title": "Number Ball 46"
+"storage/Items/prx1_chest_D_2024_47/Title": "Number Ball 47"
+"storage/Items/prx1_chest_D_2024_48/Title": "Number Ball 48"
+"storage/Items/prx1_chest_D_2024_49/Title": "Number Ball 49"
+"storage/Items/prx1_chest_D_2024_5/Title": "Number Ball 5"
+"storage/Items/prx1_chest_D_2024_50/Title": "Number Ball 50"
+"storage/Items/prx1_chest_D_2024_6/Title": "Number Ball 6"
+"storage/Items/prx1_chest_D_2024_7/Title": "Number Ball 7"
+"storage/Items/prx1_chest_D_2024_8/Title": "Number Ball 8"
+"storage/Items/prx1_chest_D_2024_9/Title": "Number Ball 9"
+"storage/Items/prx2_chest_D_2024/Description": "Receive a Diamond Number Ball and immediately exchange for specific rewards throughout the Late Night Show Event."
+"storage/Items/prx2_chest_D_2024_51/Title": "Diamond Number Ball I"
+"storage/Items/prx2_chest_D_2024_52/Title": "Diamond Number Ball II"
+"storage/Items/prx2_chest_D_2024_53/Title": "Diamond Number Ball III"
 "storage/Items/prx_season_4_tech/Title": "Technical Instance (Boxes)"
 "storage/Items/draw_june24_GB92_FV217/Title": "Badger, Esq. \nDraw"
 "storage/Items/draw_june24_summer_hideout/Title": "Summer Camouflage \nDraw"
@@ -7684,8 +7742,6 @@
 "storage/Items/prx_2024_anniversary_engagement/Description": "Ride the radio waves of this anniversary mood!"
 "storage/Items/prx_2024_anniversary_engagement/Features": "Collect Antennas from various activities, and keep all signals open to receiving rewards this August!"
 "storage/Items/prx_2024_anniversary_engagement/Title": "Antenna"
-"storage/Items/prx1_chest_D_2024_46/Title": "Lottery Ball 46"
-"storage/Items/prx1_chest_D_2024/Features": "• Keep Lottery Balls until the Late Night Lotto Event starts.\n• Watch the event-relevant stream. In the stream, the rewards will be revealed by spinning the Lottery Machine!"
 "storage/Items/chest_2024bttu/Description": "Includes a Premium or Collector tank from the list."
 "storage/Items/chest_2024bttu/Features": 
 "storage/Items/chest_2024bttu/Title": "Contraband Container"
@@ -7696,68 +7752,12 @@
 "storage/Items/avatar_brth_2024_legendary_anim/Description": "Choose your lucky symbol and play!\nCan be exchanged for 100,000 gold."
 "storage/Items/avatar_brth_2024_legendary_anim/Title": "Lucky Blitz Animated Avatar"
 "storage/Items/chest_D_2024/Description": "Contains 1 Lottery Ball with a random number from 1 to 50 with a 100% drop chance. Also, may contain 1 of 3 Diamond Lottery Balls with a small drop chance.\n• If you receive Lottery Balls, keep them until the Late Night Lotto Event starts. Watch the event-relevant stream, and learn which rewards you've won!\n• However, Diamond Lottery Balls can be exchanged for the special rewards immediately."
-"storage/Items/chest_D_2024/Title": "Lottery Machine"
 "storage/Items/chest_D_2024_second/Description": "Contains these rewards:\n• 10 Tier VII-X tanks with a drop chance of 100%\n• Each Tier VII-X tank includes 9 unlocked equipment slots and a Legendary Camouflage or an Attachment with a drop chance of 100%"
 "storage/Items/chest_D_2024_second/Title": "Jackpot Container"
 "storage/Items/profile_background_brth_2024/Description": "Join the Prime Time Celebrity!\nChanges your profile background.\nCan be exchanged for 100,000 gold."
-"storage/Items/profile_background_brth_2024/Title": "Late Night Lotto Profile Background"
 "storage/Items/prx1_chest_D_2024/Description": "• Can be exchanged for various rewards after the Late Night Lotto Stream airs on 06/25/2024.\n• The Stream archive is available on our official YouTube channel!"
-"storage/Items/prx1_chest_D_2024/Obtainment": "Spin the Lottery Machine in the game."
-"storage/Items/prx1_chest_D_2024_1/Title": "Lottery Ball 1"
-"storage/Items/prx1_chest_D_2024_10/Title": "Lottery Ball 10"
-"storage/Items/prx1_chest_D_2024_11/Title": "Lottery Ball 11"
-"storage/Items/prx1_chest_D_2024_12/Title": "Lottery Ball 12"
-"storage/Items/prx1_chest_D_2024_13/Title": "Lottery Ball 13"
-"storage/Items/prx1_chest_D_2024_14/Title": "Lottery Ball 14"
-"storage/Items/prx1_chest_D_2024_15/Title": "Lottery Ball 15"
-"storage/Items/prx1_chest_D_2024_16/Title": "Lottery Ball 16"
-"storage/Items/prx1_chest_D_2024_17/Title": "Lottery Ball 17"
-"storage/Items/prx1_chest_D_2024_18/Title": "Lottery Ball 18"
-"storage/Items/prx1_chest_D_2024_19/Title": "Lottery Ball 19"
-"storage/Items/prx1_chest_D_2024_2/Title": "Lottery Ball 2"
-"storage/Items/prx1_chest_D_2024_20/Title": "Lottery Ball 20"
-"storage/Items/prx1_chest_D_2024_21/Title": "Lottery Ball 21"
-"storage/Items/prx1_chest_D_2024_22/Title": "Lottery Ball 22"
-"storage/Items/prx1_chest_D_2024_23/Title": "Lottery Ball 23"
-"storage/Items/prx1_chest_D_2024_24/Title": "Lottery Ball 24"
-"storage/Items/prx1_chest_D_2024_25/Title": "Lottery Ball 25"
-"storage/Items/prx1_chest_D_2024_26/Title": "Lottery Ball 26"
-"storage/Items/prx1_chest_D_2024_27/Title": "Lottery Ball 27"
-"storage/Items/prx1_chest_D_2024_28/Title": "Lottery Ball 28"
-"storage/Items/prx1_chest_D_2024_29/Title": "Lottery Ball 29"
-"storage/Items/prx1_chest_D_2024_3/Title": "Lottery Ball 3"
-"storage/Items/prx1_chest_D_2024_30/Title": "Lottery Ball 30"
-"storage/Items/prx1_chest_D_2024_31/Title": "Lottery Ball 31"
-"storage/Items/prx1_chest_D_2024_32/Title": "Lottery Ball 32"
-"storage/Items/prx1_chest_D_2024_33/Title": "Lottery Ball 33"
-"storage/Items/prx1_chest_D_2024_34/Title": "Lottery Ball 34"
-"storage/Items/prx1_chest_D_2024_35/Title": "Lottery Ball 35"
-"storage/Items/prx1_chest_D_2024_36/Title": "Lottery Ball 36"
-"storage/Items/prx1_chest_D_2024_37/Title": "Lottery Ball 37"
-"storage/Items/prx1_chest_D_2024_38/Title": "Lottery Ball 38"
-"storage/Items/prx1_chest_D_2024_39/Title": "Lottery Ball 39"
-"storage/Items/prx1_chest_D_2024_4/Title": "Lottery Ball 4"
-"storage/Items/prx1_chest_D_2024_40/Title": "Lottery Ball 40"
-"storage/Items/prx1_chest_D_2024_41/Title": "Lottery Ball 41"
-"storage/Items/prx1_chest_D_2024_42/Title": "Lottery Ball 42"
-"storage/Items/prx1_chest_D_2024_43/Title": "Lottery Ball 43"
-"storage/Items/prx1_chest_D_2024_44/Title": "Lottery Ball 44"
-"storage/Items/prx1_chest_D_2024_45/Title": "Lottery Ball 45"
-"storage/Items/prx1_chest_D_2024_47/Title": "Lottery Ball 47"
-"storage/Items/prx1_chest_D_2024_48/Title": "Lottery Ball 48"
-"storage/Items/prx1_chest_D_2024_49/Title": "Lottery Ball 49"
-"storage/Items/prx1_chest_D_2024_5/Title": "Lottery Ball 5"
-"storage/Items/prx1_chest_D_2024_50/Title": "Lottery Ball 50"
-"storage/Items/prx1_chest_D_2024_6/Title": "Lottery Ball 6"
-"storage/Items/prx1_chest_D_2024_7/Title": "Lottery Ball 7"
-"storage/Items/prx1_chest_D_2024_8/Title": "Lottery Ball 8"
-"storage/Items/prx1_chest_D_2024_9/Title": "Lottery Ball 9"
 "storage/Items/prx1_chest_Drum_2024/Obtainment": 
-"storage/Items/prx2_chest_D_2024/Description": "Receive a Diamond Lottery Ball and immediately exchange for specific rewards throughout the Late Night Lotto Event."
 "storage/Items/prx2_chest_D_2024/Features": "The Diamond Lottery Ball can be immediately exchanged for either the Late Night Lotto Profile Background, the Lucky Blitz Animated Avatar, or the Jackpot Container."
-"storage/Items/prx2_chest_D_2024_51/Title": "Diamond Lottery Ball I"
-"storage/Items/prx2_chest_D_2024_52/Title": "Diamond Lottery Ball II"
-"storage/Items/prx2_chest_D_2024_53/Title": "Diamond Lottery Ball III"
 "storage/Items/avatar_2024bttu/Description": "How often do you think about the Roman Empire?"
 "storage/Items/avatar_2024bttu/Title": "Laureatus Avatar"
 "storage/Items/profile_skin_2024bttu/Description": "This island doesn't just trade delicious oranges!\nChanges your profile background."
@@ -8810,7 +8810,6 @@
 "storage/Items/draw_Ch_WZ-112v2/Title": "WZ-112-2 Celestial \nDraw"
 "storage/Items/draw_KV-5/Title": "KV-5 Draw"
 "storage/Items/draw_lbox/Title": "Lockbox Draw"
-"storage/Items/draw_A142_Pawlack_Tank/Title": "Pawlack Tank \nDraw"
 "storage/Items/draw_JagdTiger_SdKfz_185_Snowstorm/Title": "Snowstorm \nJagdtiger 8.8 Draw"
 "storage/Items/draw_F73_M4A1_Revalorise/Title": "M4A1 Revalorisé \nDraw"
 "storage/Items/light_chest/Title": "LT Container"
@@ -8955,7 +8954,7 @@
 "storage/Items/tier8_tank_container/Description": "Includes these rewards:\n• Fully equipped tank with its Legendary camouflage from the list\n• Attachment from the list\n• Animated Avatar from the list\n• Container from the list\n• Quest from the list\n• Certificates for XP bonus\n• Massive Lucky VIII Charm\n\nIt may also contain a Garage Gear from the list and the Titan Strife, a Tier VIII Collector heavy tank!"
 "storage/Items/tier8_tank_container/Title": "Massive Lucky VIII Container"
 "storage/Items/draw_nov24_skoda_t_56/Title": "Škoda T 56 Golem \nDraw"
-"storage/Items/proxy_progress_tier8_tank_container/Description": "Currency for receiving the Massive Lucky VIII Container."
+"storage/Items/proxy_progress_tier8_tank_container/Description": "Currency to obtain the Massive Lucky VIII Container."
 "storage/Items/proxy_progress_tier8_tank_container/Title": "Massive Lucky VIII Charm"
 "storage/Items/draw_nov24_skoda_t_27/Title": "Škoda T 27 Rampant \nDraw"
 "storage/Items/proxy_progress_Oth71_Titan_Strife/Description": "Currency to obtain the Titan Strife, a Tier VIII Collector heavy tank. Collecting enough currency triggers guaranteed drop of the tank from the Titan Strife Container."
@@ -9363,7 +9362,6 @@
 "storage/Items/SkillPointBooster_srr11/Title": "Elixir Booster (Clandestine Lab)"
 
 "2025-CATS/header": "Cat in the Box"
-"2025-UN/currency/terms": "To receive the event tokens, open any container. Each time you open 1 container, you get 1 event token.\nThe following containers won't include the event token:\n• Small, Big, and Huge Containers in the Store.\n• Day's and Week's Supplies in Personal Missions.\n• Clan Containers in Clan Missions.\n• Video Container."
 
 "season_6/ProgressStage/Hint": "Get <proxy1/> Boxes and exchange them for the Season tank, <vehicle1/>, and its upgrades!"
 "season_6/currency/win/terms": "Find Boxes among some bundles in the Store and these in-game activities:\n• Up to 3,000 Boxes by progressing through one Operation\n• Up to 4,000 Boxes in total by progressing through events and quests\n• Up to 250 Boxes per week by completing Clan Missions\n• Up to 3,200 Boxes in total by progressing through the special quests for Rating Battles\n• Up to 3,200 Boxes in total by winning some Tournaments"
@@ -9700,7 +9698,6 @@
 "avatars/Items/Seniority11years/Description": "To celebrate Blitz's birthday. Congrats on 11 years with us!"
 "storage/Items/Seniority11yearsChest/Title": "11 Victorious Years Container"
 "storage/Items/Seniority11yearsChest/Description": "To celebrate Blitz's birthday. Includes all rewards from the list with a 100% drop chance."
-"storage/Items/draw_battlepass_38/Title": "Swampland Draw"
 "storage/Items/Keychest_It21_Lion/Title": "Lion Lockbox"
 "storage/Items/Keychest_It21_Lion/Description": "Includes the Lion, a Tier X Collector medium tank, with a 3% drop chance or 4 random rewards:\n• Parts of the Lion, BZ-176, Object 590, Object 252U, or AMX 13 57\n• Certificates for Free XP\n• Gold or Gold Boosters\n• Boosters"
 "storage/Items/Keychest_It21_Lion/Description_cn": "Includes the Lion, a Tier X Collector medium tank, with a 3% drop chance or 4 random rewards:\n• Parts of the Lion, BZ-176, Object 590, Object 252U, or AMX 13 57\n• Certificates for Free XP\n• Gold or Gold Boosters\n• Boosters\n\n• Each Lockbox always has 2 parts of the Lion"
@@ -9737,26 +9734,15 @@
 "storage/Items/reactions_pack_2025_topup_may/Title": "Little Knight Reactions Pack"
 "storage/Items/reactions_pack_2025_topup_may_14d/Description": "Pony keeps running, ya!"
 "storage/Items/reactions_pack_2025_topup_may_14d/Title": "Little Knight Reactions Pack (14d)"
-"storage/Items/birthday_ltr_chest_2025/Description": "Description text will appear here."
-"storage/Items/chest_2025_item_universal/Description": "Description text will appear here."
-"storage/Items/chest_2025_legend_universal/Features": "Description text will appear here."
-"storage/Items/huge_birthday_chest_2025/Title": "Tank Container"
-"storage/Items/huge_birthday_chest_2025/Description": "Description text will appear here."
-"storage/Items/profile_background_brth_2025/Title": "New Profile Background"
-"storage/Items/profile_background_brth_2025/Description": "Description text will appear here."
-"storage/Items/avatar_brth_2025_legendary_anim/Title": "New Animated Avatar"
-"storage/Items/avatar_brth_2025_legendary_anim/Description": "Description text will appear here."
-"avatars/Items/avatar_sg_legendary_anim/Title": "Let's Play Animated Avatar"
-"avatars/Items/avatar_sg_legendary_anim/Description": "The rules are simple, so let's play..."
-"storage/Items/stuffQuest_sg3/Description": "Be the #1 player on your team by dealing damage in 11 battles in Tier IV–X tanks."
-"storage/Items/avatar_blitz11years_legendary/Title": "New Anniversary Avatar"
-"storage/Items/avatar_blitz11years_legendary/Description": "Happy Blitz Birthday!"
-"storage/Items/profile_skin_birthday11/Title": "New Anniversary Profile Background"
-"storage/Items/profile_skin_birthday11/Description": "Happy Blitz Birthday!\nChanges your profile background."
-"storage/Items/chest_birthday11years_gift/Title": "Anniversary Gift Container"
-"storage/Items/chest_birthday11years_gift/Description": "Includes all these rewards:\n• Turbo, a Tier VI Collector medium tank\n• Firestorm Legendary camouflage for the Turbo\n• New Anniversary Avatar and Profile Background\n• 11 Epic Boosters"
-"storage/Items/stuffQuest_prebd_2025/Title": "Birthday Quest"
-"storage/Items/sticky_money_bd_2025/Title": "Birthday Subscription"
+"storage/Items/birthday_ltr_chest_2025/Description": "Contains 1 Number Ball with a random number from 1 to 31 with a 100% drop chance. May also contain 1 of 3 Diamond Number Balls with a small drop chance.\n• If you receive Number Balls, keep them until the Late Night Show Event starts. Watch the event-relevant stream, and learn which rewards you've won!\n• However, Diamond Number Balls can be exchanged for the special rewards immediately."
+"storage/Items/chest_2025_item_universal/Description": "• Can be exchanged for various rewards after the Late Night Show Stream airs on 06/25/2025. Join the stream on the official YouTube WoT Blitz channel!\n• The Stream archive is available on our official YouTube channel!"
+"storage/Items/chest_2025_legend_universal/Features": "The Diamond Number Ball can be immediately exchanged for either the \"It's Showtime!\" Profile Background, the \"Bingo!\" Animated Avatar, or the 11 Tanks Container."
+"storage/Items/huge_birthday_chest_2025/Title": "11 Tanks Container"
+"storage/Items/huge_birthday_chest_2025/Description": "Contains these rewards:\n• 11 Tier VII-X tanks with a drop chance of 100%\n• Each Tier VII-X tank includes 9 unlocked equipment slots and a Legendary Camouflage or an Attachment with a drop chance of 100%"
+"storage/Items/profile_background_brth_2025/Title": "\"It's Showtime!\" Profile Background"
+"storage/Items/profile_background_brth_2025/Description": "Let the Late Night Show begin!\nChanges your profile background."
+"storage/Items/avatar_brth_2025_legendary_anim/Title": "\"Bingo!\" Animated Avatar"
+"storage/Items/avatar_brth_2025_legendary_anim/Description": "Win big and celebrate the WoT Blitz Birthday!"
 "storage/Items/silver_party_chest/Title": "Party Container"
 "storage/Items/silver_party_chest/Description": "Includes various resources and a Golden Party Charm. May also include a Party Certificate with a 3% drop chance."
 "storage/Items/prx_golden_party_chest/Title": "Golden Party Charm"
@@ -9782,12 +9768,6 @@
 "storage/Items/profile_skin_SA_11years/Description": "In honor of your first login. We appreciate every moment you’ve spent with us over the years. Here’s to many more!\nChanges your Profile Background."
 "storage/Items/stuffQuest_may_reward_cn/Title": "假日补给"
 "storage/Items/draw_25steps_fv215b_blue_X_cn/Title": "FV215b“章鱼”X\n抽奖"
-"storage/Items/stuffQuest_JulyEvent2025_1/Title": "令牌1号"
-"storage/Items/stuffQuest_JulyEvent2025_2/Title": "令牌2号"
-"storage/Items/stuffQuest_JulyEvent2025_3/Title": "令牌3号"
-"storage/Items/stuffQuest_JulyEvent2025_4/Title": "令牌4号"
-"storage/Items/stuffQuest_JulyEvent2025_5/Title": "令牌5号"
-"storage/Items/stuffQuest_JulyEvent2025_6/Title": "令牌6号"
 
 "#vehicle_customization:camouflage/skin_gb110_fv4201_chieftain_prototype/Name": "Goldvein"
 "#uk_vehicles:GB110_FV4201_Chieftain_Prototype_Custom": "Chieftain Proto Goldvein"
@@ -9824,9 +9804,155 @@
 
 "2024-ELEPHANT/ProgressStage/Hint": "Get <proxy1/> by earning mastery badges in Tier IV–X tanks! Collect <proxy2/> from the stages and take the <vehicle1/> into battle!"
 
+#version 11.9
+"storage/Items/stuffQuest_sg3/Description": "Be the #1 player on your team by dealing damage in 11 battles in Tier IV–X tanks."
+"storage/Items/chest_birthday11years_gift/Description": "Includes all these rewards:\n• Turbo, a Tier VI Collector medium tank\n• Firestorm Legendary camouflage for the Turbo\n• Fiery Beats Avatar and Profile Background\n• 11 Epic Boosters"
+"storage/Items/chest_birthday11years_gift/Title": "Anniversary Gift Container"
+"avatars/Items/avatar_sg_legendary_anim/Description": "The rules are simple, so let's play..."
+"avatars/Items/avatar_sg_legendary_anim/Title": "Let's Play Animated Avatar"
+"storage/Items/draw_battlepass_38/Title": "Swampland Draw"
+"storage/Items/profile_skin_birthday11/Description": "Happy Blitz Birthday!\nChanges your profile background."
+"storage/Items/profile_skin_birthday11/Title": "Fiery Beats Profile Background"
+"storage/Items/avatar_blitz11years_legendary/Description": "Happy Blitz Birthday!"
+"storage/Items/avatar_blitz11years_legendary/Title": "Fiery Beats Avatar"
+"storage/Items/sticky_money_bd_2025/Title": "Birthday Subscription"
+"storage/Items/stuffQuest_JulyEvent2025_1/Title": "令牌1号"
+"storage/Items/stuffQuest_JulyEvent2025_2/Title": "令牌2号"
+"storage/Items/stuffQuest_JulyEvent2025_3/Title": "令牌3号"
+"storage/Items/stuffQuest_JulyEvent2025_4/Title": "令牌4号"
+"storage/Items/stuffQuest_JulyEvent2025_5/Title": "令牌5号"
+"storage/Items/stuffQuest_JulyEvent2025_6/Title": "令牌6号"
+"storage/Items/stuffQuest_prebd_2025/Title": "Birthday Quest"
+"storage/Items/avatar_tk_cl_anim/Description": "Congratulations! You’ve left no stone unturned. Time to celebrate!"
+"storage/Items/avatar_tk_cl_anim/Obtainment": "Reward during the event."
+"storage/Items/avatar_tk_cl_anim/Title": "To Next Adventure Animated Avatar"
+"storage/Items/prx_tk_cl_fuel/Title": "Fuel"
+"storage/Items/avatar_2025_bd/Description": "A flashy mood-booster, perfect for celebrating Blitz Fest!"
+"storage/Items/avatar_2025_bd/Title": "Marquee Spotlight Avatar"
+"storage/Items/avatar_2025_bd_anim/Description": "A flashy mood-booster, perfect for celebrating Blitz Fest!"
+"storage/Items/avatar_2025_bd_anim/Title": "Marquee Spotlight Animated Avatar"
+"storage/Items/draw_ltr_type63/Title": "Type 63 Draw"
+"storage/Items/stuffQuest_mastery_indep/Title": "Sherman E8 Mastery Quest"
+"storage/Items/stuffQuest_collect_july_2025/Description": "Destroy 7 enemy tanks. Enter the game from July 4 – July 9 to complete the Quest each day!"
+"storage/Items/draw_xm66f/Title": "XM66F Azimuth \nDraw"
+"storage/Items/draw_bp_39_jul25/Title": "Volcanic Island \nDraw"
+"storage/Items/Subscription/sticky_money_july2025/Title": "Containers and Gold Subscription"
+"storage/Items/draw_bastille_2025/Title": "Bastille Day \nDraw"
+"storage/Items/tier10_tank_container/Title": "Massive Lucky X Container"
+"storage/Items/tier10_tank_container/Description": "Includes these rewards:\n• Fully equipped tank with its Legendary camouflage from the list\n• Attachment from the list\n• Animated Avatar from the list\n• Container from the list\n• Quest from the list\n• Certificates for XP bonus\n• Massive Lucky X Charm\n\nIt may also contain a Garage Gear from the list."
+"storage/Items/proxy_progress_tier10_tank_container/Title": "Massive Lucky X Charm"
+"storage/Items/proxy_progress_tier10_tank_container/Description": "Currency to obtain the Massive Lucky X Container."
+"storage/Items/certificate_2025_bd_tank/Description": "Allows you to get a random tank from the list."
+"storage/Items/certificate_2025_bd_tank/Title": "Festive Tank Certificate"
+"storage/Items/chest_2025_bd_freexp/Description": "Opens with Free XP.\n\nIncludes Boosters, Victory Token(s), and Gold or Gold Boosters. May also include these rewards:\n• Tank from the list with a 1.96% drop chance\n• Tier VI Tank Certificate with a 0.49% drop chance\n• MS-1 Chevron with a 2.94% drop chance\n• Customization item from the list with a 14.7% drop chance\n\nIf you’re lucky, you’ll receive a Golden Fest Container with a 2% drop chance!"
+"storage/Items/chest_2025_bd_freexp/Title": "Fest Container"
+"storage/Items/chest_2025_bd_gold/Description": "Opens with Gold.\n\nIncludes various resources, Victory Token(s), and a Part of Festive Tank Certificate. May also include these rewards:\n• Tank from the list with a 5% drop chance\n• Tier VIII Tank Certificate with a 0.5% drop chance\n• MS-1 Chevron with a 5% drop chance\n• Customization item from the list with a 18% drop chance\n• Tiger-Maus, a Tier IX Collector heavy tank, with a 0.1% drop chance"
+"storage/Items/chest_2025_bd_gold/Title": "Golden Fest Container"
+"storage/Items/chest_2025_bd_prx_free/Description": "Opens with the Victory Tokens.\n\nIncludes Boosters and Victory Token(s). May also include these rewards:\n• Tank from the list with a 0.98% drop chance\n• Tier V Tank Certificate with a 0.49% drop chance\n• MS-1 Chevron with a 1.96% drop chance\n• Customization item from the list with a 9.8% drop chance\n\nIf you’re lucky, you’ll receive a Fest Container with a 2% drop chance!"
+"storage/Items/chest_2025_bd_prx_free/Title": "Victory Fest Container"
+"storage/Items/collectable_item_2025_bd_1/Description": "The squishiest, most reliable crew member."
+"storage/Items/collectable_item_2025_bd_1/Features": "Keep it as a souvenir or exchange it for 10,000 credits."
+"storage/Items/collectable_item_2025_bd_1/Title": "Soldier Plushie Collectible Item"
+"storage/Items/collectable_item_2025_bd_2/Description": "Fuel your adventure with deep-fried, spicy goodness."
+"storage/Items/collectable_item_2025_bd_2/Title": "Festival Taco Collectible Item"
+"storage/Items/collectable_item_2025_bd_3/Description": "Follow the map, and discover each treasure!"
+"storage/Items/collectable_item_2025_bd_3/Features": "Keep it as a souvenir or exchange it for 50 gold."
+"storage/Items/collectable_item_2025_bd_3/Title": "Blitz Fest Map Collectible Item"
+"storage/Items/profile_background_2025_bd/Description": "A memorable celebration is happening just beyond the arch."
+"storage/Items/profile_background_2025_bd/Title": "Welcome to Blitz Fest Profile Background"
+"storage/Items/profile_background_2025_bd_part/Description": "Collect 4 Parts and receive the Welcome to Blitz Fest Profile Background!"
+"storage/Items/profile_background_2025_bd_part/Features": "Combine %(number) Parts and receive the Welcome to Blitz Fest Profile Background."
+"storage/Items/profile_background_2025_bd_part/Obtainment": "Explore the Blitz Fest Event."
+"storage/Items/profile_background_2025_bd_part/Title": "Part of Welcome to Blitz Fest Profile Background"
+"storage/Items/proxy_progress_certificate_2025_bd_tank/Description": "Currency to obtain the Festive Tank Certificate. Collecting enough currency triggers guaranteed drop of the Certificate from the Golden Fest Container."
+"storage/Items/proxy_progress_certificate_2025_bd_tank/Features": "• Opening a Golden Fest Container provides you with a Part of Festive Tank Certificate.\n• As soon as you have collected %(proxy_currency.amount) Parts, Festive Tank Certificate will drop from the Container.\n• 1 Part of Festive Tank Certificate can be exchanged for 20,000 credits."
+"storage/Items/proxy_progress_certificate_2025_bd_tank/Title": "Part of Festive Tank Certificate"
+"storage/Items/prx_2025_bd_free/Description": "Currency during the event.\nEarn Victory Tokens with each victory and/or Class I or higher Mastery Badge."
+"storage/Items/prx_2025_bd_free/Title": "Victory Token"
+"storage/Items/prx_2025_bd_mskey/Description": "Receive the MS-1 Chevron by completing the MS-1 Chevron Quest.\nClaim the MS-1 in the Blitz Fest Event!"
+"storage/Items/prx_2025_bd_mskey/Title": "MS-1 Chevron"
+"storage/Items/prx_2025_bd_paid/Title": "Express Token"
+"storage/Items/prx_2025_bd_quest/Description": "Receive the Quest Scroll by completing the Fest Quest.\nFind the hidden stage in the Blitz Fest Event to claim the reward with the Quest Scroll!"
+"storage/Items/prx_2025_bd_quest/Title": "Quest Scroll"
+"storage/Items/prx_2025_bd_shop1/Description": "Receive one of the Paired Tickets by completing the Ticket Quest. Go to the Store to purchase another Paired Ticket.\nAfter collecting 2 Paired Tickets, claim the reward from the Paired Ticket Reward Stage!"
+"storage/Items/prx_2025_bd_shop1/Title": "Paired Ticket"
+"storage/Items/prx_2025_bd_shop2/Description": 
+"storage/Items/prx_2025_bd_shop2/Title": 
+"storage/Items/stuffQuest_2025_bd_mskey/Title": "MS-1 Chevron Quest"
+"storage/Items/stuffQuest_2025_bd_prxquest/Title": "Fest Quest"
+"storage/Items/stuffQuest_2025_bd_prxshop/Title": "Ticket Quest"
+"storage/Items/chest_2025_enigma_proxy_2_minor/Description": "Includes Benefit Cards, certificates for XP bonus, and credits."
+"storage/Items/avatar_2025_enigma_anim/Description": "Protects cyberspace by hunting down virtual intruders."
+"storage/Items/avatar_2025_enigma_anim/Obtainment": "Reward during the event."
+"storage/Items/avatar_2025_enigma_anim/Title": "Cybernetic Lion Animated Avatar"
+"storage/Items/chest_2025_enigma_boosters/Description": "Includes the Boosters from the list."
+"storage/Items/chest_2025_enigma_boosters/Title": "Booster Container"
+"storage/Items/chest_2025_enigma_proxy_2/Description": "Includes Benefit Cards, certificates for XP bonus, and one type of the resources from the list. May also include these rewards:\n• Tier VII tank from the list with a 3% drop chance\n• Tier VIII tank from the list with a 2% drop chance"
+"storage/Items/chest_2025_enigma_proxy_2/Features": "Use the required in-game currency to open."
+"storage/Items/chest_2025_enigma_proxy_2/Title": "Benefit Container"
+"storage/Items/profile_background_2025_enigma/Description": "The point where cyberspace and reality meet.\nChanges your Profile Background."
+"storage/Items/profile_background_2025_enigma/Title": "Albion Core Profile Background"
+"storage/Items/prx_enigma_2025_1/Title": "Sim Token"
+"storage/Items/prx_enigma_2025_2/Title": "Benefit Card"
+"avatars/Items/bp59/FreeBattlePass/ObtainmentDetailed": "Unlocks with the regular Pass during Operation \"Echo Trace\" in June 2025."
+"avatars/Items/bp59/FreeBattlePass/ObtainmentShort": "Unlock Level %(progress)"
+"avatars/Items/bp59/PaidBattlePass/ObtainmentShort": "Unlock Level %(progress)"
+"storage/Items/prx_tanker_club_gem/Title": 
+"lottery_event_2024/header": "Late Night Show"
+
+"2025-BD/ProgressStage/Hint": "Start your Blitz Fest exploration at the Park Entrance and find rewards.\nCollect the <vehicle1/>, <vehicle2/>, and Fest Containers along the way!"
+"birthdayStr0_entrance_des": "Victory Trail: Use Victory Tokens to progress through this Trail. Earn them by winning battles.\nGolden Trail: Use Gold to progress through this Trail for even bigger rewards.\nExpress Trail: Purchase Express Tokens to progress through this Trail – the fastest way to receive top rewards!"
+"birthdayStr4_gold_des": "Use Gold to unlock."
+"birthdayStr2_freeprx_des": "Use Victory Tokens to unlock. To earn Victory Tokens, win battles and/or Class I or higher Mastery Badges using Tier IV–X tanks."
+"birthdayStr2_freeprx_title": "Victory Trail"
+"birthdayStr3_payprx_title": "Express Trail"
+"birthdayStr3_payprx_des": "Use Express Tokens to unlock. To receive Express Tokens, purchase the relevant bundles in the Store."
+"birthdayStr5_prxquest_title": "Quest Scroll Reward"
+"birthdayStr5_prxquest_des": "Complete the Fest Quest to receive the Quest Scroll. After receiving the Quest from one of the stages, go to the Quest in Storage and start the timer to complete it."
+"birthdayStr6_prxshop1_title": "Paired Ticket Reward"
+"birthdayStr6_prxshop1_des": "Complete the Ticket Quest to receive one of the Paired Tickets. Purchase another Paired Ticket in the Store. After receiving the Quest from one of the stages, go to the Quest in Storage and start the timer to complete it."
+"birthdayStr7_prxmskey_title": "MS-1"
+"birthdayStr7_prxmskey_des": "Complete the MS-1 Chevron Quest to receive the MS-1 Chevron. Use it to get the MS-1! After receiving the Quest from one of the stages, go to the Quest in Storage and start the timer to complete it."
+"birthdayStr8_freeXP_title": "Fest Container"
+"2025-BD/currency/win/terms": "• Get 1 Victory Token for each victory in Tier IV–X tanks.\n• Class I and higher mastery badges will earn you 1 additional Victory Token.\n• To get Victory Tokens for victories, you need to earn enough Combat XP (without multipliers):<br/><br/>%(drop)"
+"2025-BD/DependencyTip": "To claim the reward, unlock the previous stage."
+
+"storage/Items/big_boss_chest_cn/Description": "包含全局经验嘉奖令、经验加成、强化剂和1个首领集装箱点数。\n同时包含以下奖励：\n• 有25%的几率掉落金币强化剂\n• 有25%的几率掉落银币\n• 有3%的几率掉落列表内的坦克"
+
+"#vehicle_customization:camouflage/skin3_r97_object_140/Name": "Desert Assault"
+"#vehicle_customization:camouflage/skin3_r97_object_140/Descr": "For the Object 140. Changes the name in battle to Obj. 140 Desert Assault.\n%(highlight_start)+%(number)%%(highlight_end) to concealment. Install it for Summer, Winter, and Desert maps.\nWith this Legendary camouflage installed, this attachment cannot be applied: Flagship."
+"#vehicle_customization:camouflage/skin_jagdtiger/Name": "Charger"
+"#vehicle_customization:camouflage/skin_g71_jagdpantherii/Name": "Bagger"
+
+"#ussr_vehicles:Object_140_Custom_short_v2": "Obj. 140 Desert Assault"
+"#ussr_vehicles:Object_140_Custom_v2": "Obj. 140 Desert Assault"
+"#germany_vehicles:JagdTiger_Custom_short": "Jagdtiger Charger"
+"#germany_vehicles:JagdTiger_Custom": "Jagdtiger Charger"
+"#germany_vehicles:JagdPantherII_Custom_short": "JPanther II Bagger"
+"#germany_vehicles:JagdPantherII_Custom": "JPanther II Bagger"
+
+"#ussr_vehicles:T34_85TUR": "T-34-85 Breakthrough"
+"#ussr_vehicles:T34_85TUR_short": "T-34-85 Breakthrough"
+"#china_vehicles:Type_58TUR": "Type 58 50-08"
+"#china_vehicles:Type_58TUR_short": "Type 58 50-08"
+"#germany_vehicles:PzVI_AusfTUR": "Tiger Frontline"
+"#germany_vehicles:PzVI_AusfTUR_short": "Tiger Frontline"
+
+"#other_vehicles:Chassis_1_Oth84_FVE_Defender": "FVE Defender"
+"#other_vehicles:Oth84_FVE_Defender": "FVE Defender"
+"#other_vehicles:_100mm_Main_Oth84": "AP Railgun"
+"#other_vehicles:_100mm_Railcannon_Oth84_short": "100 mm Railgun"
+"#other_vehicles:_100mm_HE_Oth84": "HE Railgun"
+"#other_vehicles:_100mm_AP_CR_Gold_Oth84": "APCR Railgun"
+"#other_vehicles:TeslaCoil_Oth84": "FVE Defender"
+"#other_vehicles:_100mm_Railcannon_Oth84": "100 mm Railgun"
+"#other_vehicles:Chassis_1_Oth84_FVE_Defender_short": "FVE Defender"
+"#other_vehicles:Oth84_FVE_Defender_short": "FVE Defender"
+"#other_vehicles:Turret_1_Oth84_FVE_Defender": "FVE Defender"
+
+"#maps:asia:10_asia_as/10_asia_as.sc2": "Lost Temple"
+
 "hangar/BattleButton": "BATTLE!"
-"hangar/battleType/regularHeader": "REGULAR"
-"hangar/battleType/ratingHeader": "RATING"
 "battleType/EncounterBattle": "Encounter"
 "gameplaymode/Supremacy": "SUPREMACY"
 "NEWS_NOTIFICATION_BATTLE_WIN": "Victory!"
@@ -9837,4 +9963,149 @@
 "#battle_results:Result/Defeat": "Defeat"
 "ratingBattles/gameplayType/dominationTitle": "Encounter"
 "ratingBattles/gameplayType/supremacyTitle": "Supremacy"
+
+#version 11.10
+"storage/Items/chest_2025_increauc_gift/Description": 
+"storage/Items/chest_2025_increauc_gift/Title": 
+"storage/Items/avatar_JulyEventCN2025_anim/Description": 
+"storage/Items/avatar_JulyEventCN2025_anim/Title": 
+"storage/Items/chest_2025_JulyEventCN_FreeExp/Description": 
+"storage/Items/chest_2025_JulyEventCN_FreeExp/Title": 
+"storage/Items/chest_2025_JulyEventCN_FreeExp_2/Description": 
+"storage/Items/chest_2025_JulyEventCN_FreeExp_3/Description": 
+"storage/Items/chest_2025_JulyEventCN_FreeExp_4/Description": 
+"storage/Items/chest_2025_JulyEventCN_bt/Feature": 
+"storage/Items/chest_2025_JulyEventCN_bt/Title": 
+"storage/Items/chest_2025_JulyEventCN_bt_1/Description": 
+"storage/Items/chest_2025_JulyEventCN_bt_2/Description": 
+"storage/Items/chest_2025_JulyEventCN_bt_3/Description": 
+"storage/Items/chest_2025_JulyEventCN_globe/Title": 
+"storage/Items/chest_2025_JulyEventCN_globe_lv1/Description": 
+"storage/Items/chest_2025_JulyEventCN_globe_lv2/Description": 
+"storage/Items/chest_2025_JulyEventCN_mega/Description": 
+"storage/Items/chest_2025_JulyEventCN_mega/Title": 
+"storage/Items/collectable_item_JulyEventCN2025/Obtainment": 
+"storage/Items/collectable_item_JulyEventCN2025_1/Description": 
+"storage/Items/collectable_item_JulyEventCN2025_1/Features": 
+"storage/Items/collectable_item_JulyEventCN2025_1/Title": 
+"storage/Items/collectable_item_JulyEventCN2025_2/Description": 
+"storage/Items/collectable_item_JulyEventCN2025_2/Features": 
+"storage/Items/collectable_item_JulyEventCN2025_2/Title": 
+"storage/Items/collectable_item_JulyEventCN2025_3/Description": 
+"storage/Items/collectable_item_JulyEventCN2025_3/Features": 
+"storage/Items/collectable_item_JulyEventCN2025_3/Title": 
+"storage/Items/hdecor_JulyEventCN2025_lootbox/Description": 
+"storage/Items/hdecor_JulyEventCN2025_lootbox/Title": 
+"storage/Items/profile_skin_JulyEventCN2025/Description": 
+"storage/Items/profile_skin_JulyEventCN2025/Title": 
+"storage/Items/prx_2025_JulyEventCN_bonus_bt_chest_part/Description": 
+"storage/Items/prx_2025_JulyEventCN_bonus_bt_chest_part/Obtainment": 
+"storage/Items/prx_2025_JulyEventCN_bonus_bt_chest_part/Title": 
+"storage/Items/prx_2025_JulyEventCN_globe/Description": 
+"storage/Items/prx_2025_JulyEventCN_globe/Obtainment": 
+"storage/Items/prx_2025_JulyEventCN_globe/Title": 
+"storage/Items/prx_2025_JulyEventCN_globe_progress_bzt70/Description": 
+"storage/Items/prx_2025_JulyEventCN_globe_progress_bzt70/Features": 
+"storage/Items/prx_2025_JulyEventCN_globe_progress_bzt70/Obtainment": 
+"storage/Items/prx_2025_JulyEventCN_globe_progress_bzt70/Title": 
+"storage/Items/prx_2025_JulyEventCN_globe_progress_leoq/Description": 
+"storage/Items/prx_2025_JulyEventCN_globe_progress_leoq/Features": 
+"storage/Items/prx_2025_JulyEventCN_globe_progress_leoq/Obtainment": 
+"storage/Items/prx_2025_JulyEventCN_globe_progress_leoq/Title": 
+"storage/Items/prx_2025_JulyEventCN_win/Description": 
+"storage/Items/prx_2025_JulyEventCN_win/Title": 
+"storage/Items/reactions_pack_JulyEventCN2025/Description": 
+"storage/Items/reactions_pack_JulyEventCN2025/Title": 
+"storage/Items/reactions_pack_JulyEventCN2025_7d/Description": 
+"storage/Items/reactions_pack_JulyEventCN2025_7d/Title": 
+"storage/Items/A175_ATAC_chest/Description": "Includes certificates for Free XP and XP Bonus, Boosters, and an ATAC Charm.\nAlso contains these rewards:\n• ATAC, a Tier IX Collector light tank, and the Talon Legendary camouflage with a 5% drop chance\n• Gold Boosters with a 50% drop chance\n• Gold with a 30% drop chance\n• Massive Container with a 1% drop chance"
+"storage/Items/A175_ATAC_chest/Title": "ATAC Container"
+"storage/Items/tier9_tank_container/Description": "Includes these rewards:\n• Fully equipped tank with its Legendary camouflage from the list\n• Attachment from the list\n• Animated Avatar from the list\n• Container from the list\n• Quest from the list\n• Certificates for XP bonus\n• Massive Lucky IX Charm\n\nIt may also contain a Garage Gear from the list and the FVE Defender, a Tier IX Collector medium tank!"
+"storage/Items/tier9_tank_container/Title": "Massive Lucky IX Container"
+"storage/Items/proxy_progress_tier9_tank_container/Description": "Currency to obtain the Massive Lucky IX Container."
+"storage/Items/proxy_progress_tier9_tank_container/Title": "Massive Lucky IX Charm"
+"storage/Items/proxy_progress_A175_ATAC_chest/Description": "Currency to obtain the ATAC, a Tier IX Collector light tank, and the Talon Legendary camouflage. Collecting enough currency triggers guaranteed drop of the tank and the Legendary camouflage from the ATAC Container."
+"storage/Items/proxy_progress_A175_ATAC_chest/Title": "ATAC Charm"
+"storage/Items/draw_A142_Pawlack_Tank/Title": "Pawlack Tank \nDraw"
+"storage/Items/collectable_item_quby2025/Obtainment": 
+"storage/Items/battle_emoji_qb/Description": 
+"storage/Items/battle_emoji_qb/Title": 
+"avatars/Items/bp60/FreeBattlePass/ObtainmentShort": "Unlock Level %(progress)"
+"avatars/Items/bp60/PaidBattlePass/ObtainmentShort": "Unlock Level %(progress)"
+"avatars/Items/bp60/FreeBattlePass/ObtainmentDetailed": "Unlocks with the regular Pass during Operation \"The Outlaws\" in July 2025."
+"avatars/Items/bp60/BundleAvatar/Obtainment": "From a special bundle during Operation \"The Outlaws\" in July 2025."
+"avatars/Items/bp60/BundleAvatar/Title": "T69 Kingpin Avatar"
+"avatars/Items/bp60/FreeBattlePass/Title": "\"Who's the Boss?\" Avatar"
+"avatars/Items/bp60/PaidBattlePass/ObtainmentDetailed": "Unlocks with the Premium Pass during Operation \"The Outlaws\" in July 2025."
+"avatars/Items/bp60/PaidBattlePass/Title": "Kingpin Avatar"
+"avatars/Items/bp60/avatar_progressive_bp_60_free/Description": "There can be only one."
+"avatars/Items/bp60/avatar_progressive_bp_60_paid/Description": "Who’s afraid of the big, bad wolf? Everyone."
+"storage/Items/Camouflage/bp60/FreeBattlePass/Obtainment": "Unlocks with the regular Pass or Premium Pass during Operation \"The Outlaws\" in July 2025."
+"storage/Items/Camouflage/bp60/PaidBattlePass/Obtainment": "Unlocks with the Premium Pass during Operation \"The Outlaws\" in July 2025."
+"storage/Items/CustomBG/bp60/Title": "\"The Outlaws\" Profile Background"
+"storage/Items/stuffQuest_2025_choice1/Title": "Birds vs Lizards Quest"
+"storage/Items/stuffQuest_2025_choice1/Description": "Two creatures, two paths – which one will you choose? Play %(progress) battles."
+"storage/Items/avatar_2025_oct_choice1/Title": "Skywarden Avatar"
+"storage/Items/avatar_2025_oct_choice1/Description": "A silent warden of the sky, quick and sharp-sighted. Nothing can escape your grasp."
+"storage/Items/avatar_2025_oct_choice2/Title": "Cold-Blooded Avatar"
+"storage/Items/avatar_2025_oct_choice2/Description": "A shrewd agent of the earth, concealed and deadly. No one will see you coming."
+"storage/Items/profile_skin_2025_choice1/Title": "Skywarden Profile Background"
+"storage/Items/profile_skin_2025_choice1/Description": "A silent warden of the sky, quick and sharp-sighted. Nothing can escape your grasp.\nChanges your profile background."
+"storage/Items/profile_skin_2025_choice2/Title": "Cold-Blooded Profile Background"
+"storage/Items/profile_skin_2025_choice2/Description": "A shrewd agent of the earth, concealed and deadly. No one will see you coming.\nChanges your profile background."
+"storage/Items/avatar_quby2025_anim/Description": 
+"storage/Items/avatar_quby2025_anim/Title": 
+"storage/Items/chest_2025_quby_FreeExp/Description": 
+"storage/Items/chest_2025_quby_FreeExp/Title": 
+"storage/Items/chest_2025_quby_FreeExp_2/Description": 
+"storage/Items/chest_2025_quby_FreeExp_3/Description": 
+"storage/Items/chest_2025_quby_FreeExp_4/Description": 
+"storage/Items/chest_2025_quby_bt/Feature": 
+"storage/Items/chest_2025_quby_bt/Title": 
+"storage/Items/chest_2025_quby_bt_1/Description": 
+"storage/Items/chest_2025_quby_bt_2/Description": 
+"storage/Items/chest_2025_quby_bt_3/Description": 
+"storage/Items/chest_2025_quby_globe/Title": 
+"storage/Items/chest_2025_quby_globe_lv1/Description": 
+"storage/Items/chest_2025_quby_globe_lv2/Description": 
+"storage/Items/chest_2025_quby_mega/Description": 
+"storage/Items/chest_2025_quby_mega/Title": 
+"storage/Items/collectable_item_quby2025_1/Description": 
+"storage/Items/collectable_item_quby2025_1/Features": 
+"storage/Items/collectable_item_quby2025_1/Title": 
+"storage/Items/collectable_item_quby2025_2/Description": 
+"storage/Items/collectable_item_quby2025_2/Features": 
+"storage/Items/collectable_item_quby2025_2/Title": 
+"storage/Items/collectable_item_quby2025_3/Description": 
+"storage/Items/collectable_item_quby2025_3/Features": 
+"storage/Items/collectable_item_quby2025_3/Title": 
+"storage/Items/hdecor_quby2025_lootbox/Description": 
+"storage/Items/hdecor_quby2025_lootbox/Title": 
+"storage/Items/profile_skin_quby2025/Description": 
+"storage/Items/profile_skin_quby2025/Title": 
+"storage/Items/prx_2025_quby_bonus_bt_chest_part/Description": 
+"storage/Items/prx_2025_quby_bonus_bt_chest_part/Obtainment": 
+"storage/Items/prx_2025_quby_bonus_bt_chest_part/Title": 
+"storage/Items/prx_2025_quby_globe/Description": 
+"storage/Items/prx_2025_quby_globe/Obtainment": 
+"storage/Items/prx_2025_quby_globe/Title": 
+"storage/Items/prx_2025_quby_globe_progress_bzt70/Description": 
+"storage/Items/prx_2025_quby_globe_progress_bzt70/Features": 
+"storage/Items/prx_2025_quby_globe_progress_bzt70/Obtainment": 
+"storage/Items/prx_2025_quby_globe_progress_bzt70/Title": 
+"storage/Items/prx_2025_quby_globe_progress_leoq/Description": 
+"storage/Items/prx_2025_quby_globe_progress_leoq/Features": 
+"storage/Items/prx_2025_quby_globe_progress_leoq/Obtainment": 
+"storage/Items/prx_2025_quby_globe_progress_leoq/Title": 
+"storage/Items/prx_2025_quby_win/Description": 
+"storage/Items/prx_2025_quby_win/Title": 
+"storage/Items/reactions_pack_quby2025/Description": 
+"storage/Items/reactions_pack_quby2025/Title": 
+"storage/Items/reactions_pack_quby2025_7d/Description": 
+"storage/Items/reactions_pack_quby2025_7d/Title": 
+
+"#vehicle_customization:camouflage/battlepass60_01/Name": "Burning Crown"
+"#vehicle_customization:camouflage/battlepass60_02/Name": "Ex Vivo"
+"#vehicle_customization:camouflage/battlepass60_03/Name": "Prismatic Trickster"
+"#vehicle_customization:camouflage/battlepass60_04/Name": "Pulse Conductor"
 
